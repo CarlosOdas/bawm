@@ -1,9 +1,15 @@
 {
   "name": "bawm",
-  "description": "As quatro etapas da cadeia de produção do selo BAWM que faltavam: letra, arranjo, lançamento e divulgação.",
-  "version": "0.1.0",
+  "description": "As sete funções da cadeia de produção do selo BAWM — Brazilian Artificial World Music: direção, artista, letra, arranjo, produção, lançamento e divulgação.",
+  "version": "1.0.0",
   "author": {
     "name": "Carlos Alberto Odas"
   },
-  "keywords": ["bawm", "musica", "suno", "selo", "world-music"]
+  "keywords": [
+    "bawm",
+    "musica",
+    "suno",
+    "selo",
+    "world-music"
+  ]
 }
