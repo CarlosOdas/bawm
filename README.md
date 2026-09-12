@@ -20,25 +20,32 @@ Trabalhe **uma faixa por vez** até o dossiê fechar. Comece pela `bawm-direcao`
 
 ## Instalar
 
+Comandos e ordem em **Fonte de verdade**, logo abaixo. Depois de instalado, as oito ficam disponíveis como `/bawm:bawm-direcao`, `/bawm:bawm-letrista` e assim por diante — e carregam sozinhas quando a conversa bate com a descrição de cada uma.
+
+O plugin é **autocontido**: toda skill que outra invoca por nome está aqui dentro. Instalar o plugin numa conta limpa não deixa referência pendurada.
+
+## Fonte de verdade: este repo
+
+Quatro skills existem em dois lugares — `bawm-direcao`, `bawm-artista`, `bawm-producao` e `suno-pro` também estão sincronizadas na conta Claude, como `anthropic-skills:…`. **Duas cópias com o mesmo `name` deixam o disparo automático ambíguo, e uma edição num lado não aparece no outro.** Só pode haver uma fonte. A decisão é: **o repo.**
+
+**Por quê:**
+
+1. **A conta falha em silêncio.** Editar pela interface envelhece a cópia do repo sem avisar ninguém; seis meses depois não dá para saber qual vale. Esquecer de atualizar o plugin falha alto — a skill simplesmente não muda, e a versão aparece no `/plugin`.
+2. **O histórico aqui é conteúdo, não metadado.** Estas skills carregam regra de compliance que muda com política de plataforma. Quando o Spotify mexer de novo no AI Persona, ou a Apple tornar as tags obrigatórias, o valor está no diff: o que o selo afirmava antes, quando mudou e por quê. Num takedown ou numa disputa, histórico datado é ativo.
+3. **O problema que originou este repo foi de referência quebrada** — a direção mandava invocar quatro skills inexistentes e ninguém percebeu. Fonte única e versionada é o que pega isso; a checagem de referências roda a cada commit.
+
+**O que custa, honestamente:** o plugin não se sincroniza sozinho como a conta. Em outra máquina ou sessão é preciso `/plugin marketplace update bawm` para puxar mudança.
+
+### Migração — faça de uma vez só
+
 ```
 /plugin marketplace add carlosodas/bawm
 /plugin install bawm@bawm
 ```
 
-As oito ficam disponíveis como `/bawm:bawm-direcao`, `/bawm:bawm-letrista` e assim por diante — e carregam sozinhas quando a conversa bate com a descrição de cada uma.
+Depois, **na mesma sentada**, apague pela interface de skills da conta as quatro duplicatas: `bawm-direcao`, `bawm-artista`, `bawm-producao` e `suno-pro`. Fazer em dois momentos deixa uma janela com as duas cópias ativas, que é justamente o que se quer evitar.
 
-O plugin é **autocontido**: toda skill que outra invoca por nome está aqui dentro. Instalar o plugin numa conta limpa não deixa referência pendurada.
-
-### ⚠️ Antes de instalar: remova as duplicatas da conta
-
-`bawm-direcao`, `bawm-artista`, `bawm-producao` e `suno-pro` **também existem como skills sincronizadas na conta Claude** (aparecem como `anthropic-skills:…`). Instalar este plugin sem mexer nelas deixa **duas cópias com o mesmo `name`** — o disparo automático fica ambíguo e uma edição no repo não aparece na cópia da conta.
-
-Escolha um dos dois caminhos e siga só ele:
-
-- **Repo como fonte de verdade** (recomendado) — instale o plugin e **apague as quatro skills sincronizadas** pela interface de skills da conta. A partir daí, editar é `git commit`.
-- **Conta como fonte de verdade** — não instale o plugin; trate este repo como arquivo e histórico, e suba as quatro novas avulsas pela interface, como foi feito com as primeiras.
-
-Misturar os dois é o que dá problema.
+As quatro escritas para este repo — `bawm-letrista`, `bawm-arranjador`, `bawm-lancamento` e `bawm-marketing` — nunca estiveram na conta e não precisam de nada.
 
 ## Procedência
 
