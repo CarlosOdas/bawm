@@ -17,11 +17,12 @@ Se faltar bloco, volte à etapa dona dele. Não preencha de memória.
 
 **Nunca lance com menos de quatro semanas de antecedência** — veto da direção, e é o que dá espaço ao pitch editorial. Cadência do selo: um single a cada 3 ou 4 semanas.
 
+⚠️ **O veto conta de quando você marca a data, não de quando começa a trabalhar.** Master, dossiê e arte ficam prontos *antes* de o relógio começar — some 1 a 2 semanas de produção ao total. É isso que evita que uma faixa aprovada no limite do veto já nasça atrasada.
+
 | Marco | Quando |
 |---|---|
-| Master aprovado e dossiê fechado | D−35 |
-| Arte pronta e conferida | D−32 |
-| Envio à LANDR, com data futura marcada | D−30 |
+| Master aprovado, dossiê fechado, arte conferida | **antes de marcar a data** |
+| Envio à LANDR, com data futura marcada | **D−28** — piso do veto |
 | Distribuição chega às lojas; link do Spotify existe | D−14 a D−10 |
 | **Pitch editorial no Spotify for Artists** | **D−10, no mínimo D−7** |
 | Canvas, cortes e calendário prontos (`bawm-marketing`) | D−7 |
@@ -99,6 +100,6 @@ Comprar streams · promoção com plays garantidos · bot · loop do próprio ca
 - [ ] Data a 4+ semanas, com folga de 7 dias para o pitch
 - [ ] Registro da obra encaminhado (associação e ECAD são atos separados)
 - [ ] Assinatura da LANDR ativa e paga
-- [ ] Perfil do artista reivindicado e com bio — hoje é pendência aberta do selo
+- [ ] Perfil do artista com **bio escrita** — os perfis já estão reivindicados; a bio segue pendente
 
 Feche entregando a `bawm-marketing`: data, link, tema da faixa e a imagem central da letra.

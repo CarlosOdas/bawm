@@ -64,16 +64,16 @@ As cinco skills que mexem no dossiê apontam para o modelo: `bawm-direcao` (que 
 
 Escritas para este repo, a partir do cânone estabelecido nas outras: `bawm-letrista`, `bawm-arranjador`, `bawm-lancamento` e `bawm-marketing`.
 
-Vindas das skills sincronizadas da conta. Uma continua idêntica à origem; as outras três levaram alterações pontuais, listadas aqui para que qualquer uma possa ser auditada contra o original:
+Vindas das skills sincronizadas da conta. **Nenhuma continua idêntica à origem.** As alterações estão listadas aqui para que qualquer uma possa ser auditada contra o original:
 
 | Skill | sha256 na origem | sha256 aqui | O que mudou |
 |---|---|---|---|
-| bawm-artista | `d6c5357fcdb3` | `d6c5357fcdb3` | **nada** — verbatim |
+| bawm-artista | `d6c5357fcdb3` | `95f463aa3382` | **Bloco Styles reescrito** para caber no teto de 7 descritores e tirar gênero vocal do prompt |
 | bawm-direcao | `2844ce0bfe0e` | `996300685b23` | Aponta os dois modelos; pendência dos perfis do Spotify atualizada (estão reivindicados) |
 | bawm-producao | `8f9a0b552c42` | `bb14344596ae` | Aponta o modelo de dossiê |
 | suno-pro | `30d1953a984e` | `065973bbfc31` | Removida a linha com a URL do artifact do manual completo |
 
-Nenhuma dessas alterações mexe em método, número ou regra: são ponteiros para os modelos, mais uma correção de fato e a remoção de uma URL. O conteúdo técnico e de compliance segue como estava.
+As três últimas são ponteiros, uma correção de fato e a remoção de uma URL — não mexem em método. A da `bawm-artista` **é** mudança de método: o bloco Styles do Caô violava a regra que a `suno-pro` declara, e o conserto saiu de um ensaio que rodou uma faixa pela cadeia inteira. Os números de compliance seguem como estavam.
 
 `suno-pro` não é etapa da cadeia — é o manual de operação do Suno, e serve a qualquer projeto de música. Está aqui porque `bawm-arranjador` e `bawm-producao` a invocam pelo nome: sem ela, o plugin instalado numa conta limpa teria as mesmas referências quebradas que motivaram este repo.
 

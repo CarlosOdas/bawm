@@ -71,7 +71,7 @@ Um corte bom vem da **melhor seção da faixa**, não do começo. Normalmente é
 ## O que sustenta o selo entre lançamentos
 
 - **Playlist própria do BAWM**, atualizada, com o catálogo inteiro e faixas de terceiros que sustentem a tese de world music. É a curadoria virando produto.
-- **Perfis reivindicados e com bio** nas três lojas — hoje é **pendência aberta**: os perfis do Spotify estão sem bio e não reivindicados. É o item mais barato e mais atrasado da lista.
+- **Bio nos perfis** das três lojas. Os perfis do Spotify **já estão reivindicados** — o pitch editorial está desbloqueado. Falta escrever a bio: é o item mais barato e mais atrasado da lista.
 - **Transparência como posicionamento.** IA está no nome do selo — *Brazilian Artificial World Music*. Não esconda o método: explique a cadeia, a autoria humana da letra, a curadoria. Selo que se explica bem é selo que sobrevive à próxima mudança de política de plataforma.
 - **Sync.** É onde a receita realista mora. Catálogo instrumental limpo, metadado correto e direito documentado valem mais que um pico de streams.
 

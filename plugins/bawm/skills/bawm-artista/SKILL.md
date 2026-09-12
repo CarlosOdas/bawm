@@ -51,25 +51,58 @@ Antes de fechar um nome, procure-o no Spotify, Apple Music e Deezer. Escolha um 
 
 ### Bloco Styles base do Caô
 
+**Cinco descritores fixos.** O Styles do Caô é montado, não colado: a estes cinco soma-se a variação de quem lidera e, se a faixa pedir, **um** descritor livre. Teto de sete — é a regra 1 da `suno-pro`, e ela vale para o Caô como para qualquer coisa.
+
 ```
-Afro-Barroco, MPB de câmara, violão de nylon, cello, violino,
-percussão de mão, voz masculina barítono brasileira, sotaque nativo,
-mid-tempo, gravação acústica próxima, wide stereo,
-ritual, melancólico, reverente
+Afro-Barroco brasileiro de sotaque nativo sobre base de MPB de câmara,
+violão de nylon, cello, percussão de mão,
+gravação ritual acústica e próxima em wide stereo
 ```
+
+Conta por vírgula: **5 descritores** · 2 gêneros · 3 instrumentos. Sobram dois lugares — a variação e um livre.
+
+**Ordem de montagem** — posição é o único peso, então o inegociável vem primeiro:
+
+```
+1. fundação de gênero (fixa)      ← identidade do Caô
+2. variação de quem lidera        ← o que muda de faixa para faixa
+3. instrumentos (fixos)
+4. produção e mood (fixos)
+5. descritor livre da faixa       ← opcional
+```
+
+⚠️ **A variação entra na posição 2, não no fim.** Colada depois do mood ela cai fora das primeiras 20–30 palavras e perde o peso — é o dado mais específico da faixa na posição mais fraca do prompt.
+
+**Variações por integrante** — uma só, a de quem lidera, nunca duas:
+
+| Integrante | Variação | Vocal Gender |
+|---|---|---|
+| **Bento** | `barítono grave e assentado` | Male |
+| **Guilherme** | `segunda voz em harmonia próxima e contracanto limpo` | Male |
+| **Glória** | `voz leve e sofisticada à maneira da bossa, nylon à frente` | Female |
+| **Helena** | `violino chorado e cordas em primeiro plano` | — |
+| **Lia** | `flauta e textura arejada de indie folk global` | — |
+
+⚠️ **Nenhuma variação nomeia gênero vocal.** `voz masculina`, `male vocals` e afins não vão no Styles — é botão (regra 7 da `suno-pro`). O Styles fica com **timbre e sotaque**: barítono é tessitura, não gênero.
+
+Helena e Lia acrescentam um instrumento cada (violino, flauta), fechando em quatro — o teto de `2 a 4 instrumentos`.
+
+**Exemplo montado, faixa liderada pelo Bento:**
+
+```
+Afro-Barroco brasileiro de sotaque nativo sobre base de MPB de câmara,
+barítono grave e assentado,
+violão de nylon, cello, percussão de mão,
+gravação ritual acústica e próxima em wide stereo
+```
+
+**6 descritores.** Sobra um lugar para o que a faixa pedir — `mid-tempo`, `melancólico`, o que for. Nunca passe de 7.
 
 **Exclude styles:** `autotune, electronic drums, 808, distorted guitar, synth lead`
 
 **Sliders:** Weirdness 35 · Style Influence 75. Câmara mais nua: 30 / 80. Experimental: 55 / 60.
 
 **Vocal Gender:** Male para Bento e Guilherme; Female para Glória. Use o botão, nunca tag.
-
-**Variações por integrante**, acrescentadas ao bloco base:
-- Bento: `deep baritone lead, low register, grave e assentado`
-- Guilherme: `second voice, close harmony, contracanto, técnica limpa`
-- Glória: `voz feminina suave, bossa, violão de nylon em primeiro plano, leveza`
-- Helena: `solo cello, violino chorado, cordas em primeiro plano`
-- Lia: `flauta, percussão de mão, textura arejada, indie folk global`
 
 ## Consistência de voz no Suno
 
