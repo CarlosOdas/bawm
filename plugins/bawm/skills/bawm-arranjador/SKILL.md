@@ -65,22 +65,29 @@ Tags que servem bem ao arco acima:
 
 ## Bloco Styles
 
-Parta do bloco base do Caô (`bawm-artista`) e some **uma** variação de integrante — a de quem lidera a faixa. Não empilhe duas.
+O Styles é **montado em cinco posições**, não colado inteiro. Teto de **sete descritores** — regra 1 da `suno-pro`, sem exceção para o Caô. O bloco base fixo tem cinco, a variação de quem lidera ocupa uma, e sobra **uma** para o que esta faixa pedir.
 
 ```
-Afro-Barroco, MPB de câmara, violão de nylon, cello, violino,
-percussão de mão, voz masculina barítono brasileira, sotaque nativo,
-mid-tempo, gravação acústica próxima, wide stereo,
-ritual, melancólico, reverente
+Afro-Barroco brasileiro de sotaque nativo sobre base de MPB de câmara,   ← fixo  (1)
+<variação de quem lidera>,                                              ← muda    (2)
+violão de nylon, cello, percussão de mão,                               ← fixo  (3-5)
+gravação ritual acústica e próxima em wide stereo,                      ← fixo    (6)
+<um descritor livre da faixa>                                           ← opcional(7)
 ```
 
-| Lidera | Some ao bloco |
-|---|---|
-| Bento | `deep baritone lead, low register, grave e assentado` |
-| Guilherme | `second voice, close harmony, contracanto, técnica limpa` |
-| Glória | `voz feminina suave, bossa, violão de nylon em primeiro plano, leveza` |
-| Helena | `solo cello, violino chorado, cordas em primeiro plano` |
-| Lia | `flauta, percussão de mão, textura arejada, indie folk global` |
+⚠️ **A variação entra na posição 2.** Colada no fim, ela cai fora das primeiras 20–30 palavras — o dado mais específico da faixa na posição mais fraca do prompt. Posição é o único peso que existe.
+
+| Lidera | Variação (posição 2) | Vocal Gender |
+|---|---|---|
+| Bento | `barítono grave e assentado` | Male |
+| Guilherme | `segunda voz em harmonia próxima e contracanto limpo` | Male |
+| Glória | `voz leve e sofisticada à maneira da bossa, nylon à frente` | Female |
+| Helena | `violino chorado e cordas em primeiro plano` | — |
+| Lia | `flauta e textura arejada de indie folk global` | — |
+
+**Uma variação só.** Duas estouram o teto e diluem quem lidera.
+
+⚠️ **Nenhuma delas nomeia gênero vocal** — `voz masculina`, `male vocals` e afins são botão, não Styles. Barítono é tessitura; o Styles guarda **timbre e sotaque**.
 
 **Exclude styles:** `autotune, electronic drums, 808, distorted guitar, synth lead`
 
@@ -118,6 +125,8 @@ Registre no **bloco 2 do dossiê** (`modelos/dossie-de-faixa.md`): o mapa, o Sty
 - [ ] Mapa escrito, com uma mudança de densidade audível por seção
 - [ ] Ponte subtrai alguma coisa
 - [ ] Nenhuma tag com mais de 3 palavras; nenhum parêntese que não deva ser cantado
-- [ ] Styles com 4 a 7 descritores, o inegociável nas primeiras 20-30 palavras
+- [ ] Styles com **6 ou 7 descritores**: os 5 fixos + a variação de quem lidera + no máximo 1 livre
+- [ ] A variação está na **posição 2**, dentro das primeiras 20-30 palavras
+- [ ] Nenhum termo de gênero vocal no Styles — está no botão
 - [ ] Duração projetada fora da faixa morta de 30 a 60 s
 - [ ] Os cinco blocos copiáveis, prontos para colar
