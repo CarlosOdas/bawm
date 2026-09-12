@@ -9,7 +9,7 @@ Etapa 5 da cadeia. Consome o **master** de `bawm-producao` e o **dossiê da faix
 
 ## Portão de entrada — não negocie
 
-**Dossiê fechado ou não há lançamento.** É veto da direção, não preferência. Confira os cinco blocos antes de abrir a LANDR: autoria (letra humana, rascunhos, datas) · componente de IA (modelo, assinatura ativa **no momento da geração**, Styles e Exclude exatos, sliders, gerações descartadas, ID do download) · montagem no Audacity · masterização (Style, Loudness, LUFS e true peak **medidos**) · direitos.
+**Dossiê fechado ou não há lançamento.** É veto da direção, não preferência. O modelo, com o portão de fechamento no fim, está em **`modelos/dossie-de-faixa.md`**. Confira os cinco blocos antes de abrir a LANDR: autoria (letra humana, rascunhos, datas) · componente de IA (modelo, assinatura ativa **no momento da geração**, Styles e Exclude exatos, sliders, gerações descartadas, ID do download) · montagem no Audacity · masterização (Style, Loudness, LUFS e true peak **medidos**) · direitos.
 
 Se faltar bloco, volte à etapa dona dele. Não preencha de memória.
 

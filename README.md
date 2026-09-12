@@ -47,6 +47,19 @@ Depois, **na mesma sentada**, apague pela interface de skills da conta as quatro
 
 As quatro escritas para este repo — `bawm-letrista`, `bawm-arranjador`, `bawm-lancamento` e `bawm-marketing` — nunca estiveram na conta e não precisam de nada.
 
+## Os dois artefatos da cadeia
+
+Duas coisas atravessam a cadeia inteira e por isso vivem fora das skills, em `plugins/bawm/modelos/`:
+
+| Modelo | Aberto por | Fechado por |
+|---|---|---|
+| `briefing-de-faixa.md` | `bawm-direcao` | antes de a letra começar |
+| `dossie-de-faixa.md` | `bawm-letrista`, no briefing | `bawm-lancamento`, antes do release |
+
+O **dossiê** é a espinha de compliance do selo: cinco blocos, cada um preenchido pela etapa dona dele, e `bawm-lancamento` veta o release com qualquer bloco em aberto. Copie o modelo para a pasta da faixa e preencha **no dia em que cada coisa acontece** — dossiê reconstruído na véspera do lançamento não tem valor probatório.
+
+`bawm-direcao` e `bawm-producao` também mandam registrar no dossiê, mas não apontam para o modelo: são cópias verbatim e apontá-las quebraria o checksum. O dossiê é encontrado pelas duas pontas — `bawm-letrista` o abre e `bawm-lancamento` o fecha.
+
 ## Procedência
 
 Escritas para este repo, a partir do cânone estabelecido nas outras: `bawm-letrista`, `bawm-arranjador`, `bawm-lancamento` e `bawm-marketing`.
@@ -78,6 +91,9 @@ plugins/bawm/
     bawm-lancamento/SKILL.md
     bawm-marketing/SKILL.md
     suno-pro/SKILL.md
+  modelos/
+    briefing-de-faixa.md
+    dossie-de-faixa.md
 ```
 
 ## Convenções
