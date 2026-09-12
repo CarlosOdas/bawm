@@ -84,7 +84,9 @@ Escreva pensando em seções, mas **entregue a letra limpa, sem tag nenhuma** �
 
 ## Dossiê de autoria — o artefato desta etapa
 
-Abra no briefing, feche antes do lançamento. Esta etapa preenche o bloco de autoria:
+Modelo: **`modelos/dossie-de-faixa.md`**. O briefing que abre esta etapa vem em **`modelos/briefing-de-faixa.md`**.
+
+Abra no briefing, feche antes do lançamento. Esta etapa preenche o **bloco 1, Autoria**:
 
 - **Quem escreveu, quando e onde.** Nome completo, datas, local.
 - **Rascunhos.** Onde estão os arquivos, com data de modificação preservada. Guarde as versões intermediárias — a cadeia de rascunhos é a prova mais forte que existe.

@@ -21,6 +21,7 @@ Direção (esta) → **bawm-artista** (persona) → **bawm-letrista** → **bawm
 
 ```
 1. BRIEFING    direção define artista, tema, geografia sonora, função no plano
+               modelo: modelos/briefing-de-faixa.md
 2. LETRA       letra + dossiê de autoria humana
 3. ARRANJO     estrutura, tags, bloco Styles, Exclude
 4. PRODUÇÃO    Suno gera · Audacity monta e repara · LANDR masteriza
@@ -50,7 +51,7 @@ Trabalhe **uma faixa por vez** até o dossiê fechar.
 
 **Padrões técnicos.** Suno v5.5 · Audacity 3.7.9 (não 4.0) · LANDR, padrão histórico **Warm / Medium**.
 
-**Pendências abertas.** Migração visual do Caô para ilustração; perfis do Spotify sem bio e não reivindicados; Custom Model do Caô não treinado (há 12 faixas, mínimo 6).
+**Pendências abertas.** Migração visual do Caô para ilustração; bios dos perfis nas lojas (os perfis do Spotify **já estão reivindicados**, o pitch editorial está desbloqueado); Custom Model do Caô não treinado (há 12 faixas, mínimo 6).
 
 ## Regras de decisão
 
@@ -66,7 +67,7 @@ Trabalhe **uma faixa por vez** até o dossiê fechar.
 
 **O buraco jurídico.** No Brasil (Lei 9.610/98 art. 11; posição do INPI) e nos EUA (USCO; *Thaler*), obra gerada por IA não tem autor e não é registrável. O Suno cede só "o direito que a Suno detenha", sem garantia de não-infração, sem licença retroativa (é preciso estar assinante **no momento da geração**), com teto de responsabilidade de 100 dólares. A LANDR exige que você declare ser titular. **A correção é fazer a autoria humana ser real e documentável.**
 
-**Dossiê de faixa — obrigatório.** Um arquivo por faixa, aberto no briefing, fechado antes do lançamento: autoria (quem escreveu a letra e quando, onde estão os rascunhos, decisões humanas de arranjo e edição) · componente de IA (modelo, assinatura ativa, prompt Styles e Exclude exatos, sliders, gerações descartadas e por que a escolhida ganhou, ID do download) · montagem no Audacity (de onde veio cada trecho, onde foram os cortes) · masterização (Style, Loudness, LUFS e true peak medidos) · direitos (ISRC, registro na associação, o que foi declarado na LANDR). **Sem dossiê fechado, não libere o lançamento.**
+**Dossiê de faixa — obrigatório.** Modelo em `modelos/dossie-de-faixa.md`. Um arquivo por faixa, aberto no briefing, fechado antes do lançamento: autoria (quem escreveu a letra e quando, onde estão os rascunhos, decisões humanas de arranjo e edição) · componente de IA (modelo, assinatura ativa, prompt Styles e Exclude exatos, sliders, gerações descartadas e por que a escolhida ganhou, ID do download) · montagem no Audacity (de onde veio cada trecho, onde foram os cortes) · masterização (Style, Loudness, LUFS e true peak medidos) · direitos (ISRC, registro na associação, o que foi declarado na LANDR). **Sem dossiê fechado, não libere o lançamento.**
 
 **Declaração de IA.** Obrigatória na LANDR. Declarar remove a entrega para YouTube Content ID, Meta, TikTok, Deezer, Lissen, Pandora e Tencent — continuam Spotify, Apple Music e Amazon. ⚠️ Contradição não resolvida: o artigo de ajuda aceita faixa com IA (teto de 30/mês) e as diretrizes gerais proíbem "música inteiramente gerada por IA". **Peça ao suporte um posicionamento por escrito** sobre o caso do selo e guarde a resposta.
 

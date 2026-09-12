@@ -110,7 +110,7 @@ Entregue sempre em **blocos separados e copiáveis**, nunca num parágrafo:
 4. **Lyrics** com as tags já no lugar
 5. **Uma linha de sliders** + Vocal Gender
 
-Registre no dossiê da faixa: o mapa, o Styles e o Exclude **exatos**, e os sliders. `bawm-producao` vai registrar o que aconteceu com eles.
+Registre no **bloco 2 do dossiê** (`modelos/dossie-de-faixa.md`): o mapa, o Styles e o Exclude **exatos**, e os sliders. `bawm-producao` vai registrar o que aconteceu com eles.
 
 ## Antes de passar à produção
 
