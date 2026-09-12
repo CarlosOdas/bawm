@@ -1,7 +1,7 @@
 {
   "name": "bawm",
   "description": "As sete funções da cadeia de produção do selo BAWM — Brazilian Artificial World Music (direção, artista, letra, arranjo, produção, lançamento e divulgação), mais o manual de operação do Suno.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": {
     "name": "Carlos Alberto Odas"
   },

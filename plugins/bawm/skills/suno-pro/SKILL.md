@@ -5,8 +5,6 @@ description: "Operar o Suno Pro (v5.5): escrever prompts de Styles, tags estrutu
 
 # Operação do Suno Pro (v5.5)
 
-Manual completo de referência: https://claude.ai/code/artifact/e65ccdf6-4697-4a12-875f-4298c14f465d
-
 Escreva sempre em português. Tags estruturais e descritores de estilo ficam **em inglês** (é o vocabulário treinado); nomes de instrumentos e gêneros brasileiros ficam **em português**.
 
 ## Princípio central

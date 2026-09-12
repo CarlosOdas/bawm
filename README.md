@@ -51,9 +51,10 @@ Copiadas **verbatim** das skills sincronizadas da conta, sem uma vírgula altera
 | bawm-direcao | `2844ce0bfe0e` |
 | bawm-artista | `d6c5357fcdb3` |
 | bawm-producao | `8f9a0b552c42` |
-| suno-pro | `30d1953a984e` |
 
-`suno-pro` não é etapa da cadeia — é o manual de operação do Suno, e serve a qualquer projeto de música. Está aqui porque `bawm-arranjador` e `bawm-producao` a invocam pelo nome: sem ela, o plugin instalado numa conta limpa teria as mesmas referências quebradas que motivaram este repo.
+`suno-pro` veio da mesma origem (`30d1953a984e`) com **uma única alteração**: removida a linha que apontava para o artifact do manual completo, para não expor o identificador num repo que pode vir a ser público. Nada mais foi tocado — o arquivo aqui é `065973bbfc31`. O manual completo continua existindo fora do repo.
+
+`suno-pro` também não é etapa da cadeia — é o manual de operação do Suno, e serve a qualquer projeto de música. Está aqui porque `bawm-arranjador` e `bawm-producao` a invocam pelo nome: sem ela, o plugin instalado numa conta limpa teria as mesmas referências quebradas que motivaram este repo.
 
 ## Estrutura
 
