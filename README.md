@@ -58,7 +58,7 @@ Duas coisas atravessam a cadeia inteira e por isso vivem fora das skills, em `pl
 
 O **dossiê** é a espinha de compliance do selo: cinco blocos, cada um preenchido pela etapa dona dele, e `bawm-lancamento` veta o release com qualquer bloco em aberto. Copie o modelo para a pasta da faixa e preencha **no dia em que cada coisa acontece** — dossiê reconstruído na véspera do lançamento não tem valor probatório.
 
-Todas as seis skills que mexem no dossiê apontam para o modelo: `bawm-direcao` (que o define e veta sem ele), `bawm-letrista` (abre), `bawm-arranjador`, `bawm-producao` e `bawm-lancamento` (fecha).
+As cinco skills que mexem no dossiê apontam para o modelo: `bawm-direcao` (que o define e veta sem ele), `bawm-letrista` (abre), `bawm-arranjador`, `bawm-producao` e `bawm-lancamento` (fecha).
 
 ## Procedência
 
