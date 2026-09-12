@@ -59,7 +59,7 @@ Cole os blocos do pacote de arranjo. **Gere duas vezes** — nunca aceite a prim
 
 **Noise Reduction** é o efeito mais destrutivo do conjunto e material do Suno raramente é ruidoso — normalmente pule. Se usar, confira sempre no modo **Residue** antes de aplicar.
 
-Registre no dossiê: quantas gerações entraram, de onde veio cada trecho, onde foram os cortes e por quê. Guarde o projeto do Audacity e uma exportação sem processamento de cada geração usada.
+Registre no dossiê (`modelos/dossie-de-faixa.md`, blocos 2 a 4): quantas gerações entraram, de onde veio cada trecho, onde foram os cortes e por quê. Guarde o projeto do Audacity e uma exportação sem processamento de cada geração usada.
 
 ## Etapa 3 — LANDR
 

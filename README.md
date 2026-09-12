@@ -58,23 +58,24 @@ Duas coisas atravessam a cadeia inteira e por isso vivem fora das skills, em `pl
 
 O **dossiê** é a espinha de compliance do selo: cinco blocos, cada um preenchido pela etapa dona dele, e `bawm-lancamento` veta o release com qualquer bloco em aberto. Copie o modelo para a pasta da faixa e preencha **no dia em que cada coisa acontece** — dossiê reconstruído na véspera do lançamento não tem valor probatório.
 
-`bawm-direcao` e `bawm-producao` também mandam registrar no dossiê, mas não apontam para o modelo: são cópias verbatim e apontá-las quebraria o checksum. O dossiê é encontrado pelas duas pontas — `bawm-letrista` o abre e `bawm-lancamento` o fecha.
+Todas as seis skills que mexem no dossiê apontam para o modelo: `bawm-direcao` (que o define e veta sem ele), `bawm-letrista` (abre), `bawm-arranjador`, `bawm-producao` e `bawm-lancamento` (fecha).
 
 ## Procedência
 
 Escritas para este repo, a partir do cânone estabelecido nas outras: `bawm-letrista`, `bawm-arranjador`, `bawm-lancamento` e `bawm-marketing`.
 
-Copiadas **verbatim** das skills sincronizadas da conta, sem uma vírgula alterada e conferidas por checksum:
+Vindas das skills sincronizadas da conta. Uma continua idêntica à origem; as outras três levaram alterações pontuais, listadas aqui para que qualquer uma possa ser auditada contra o original:
 
-| Skill | sha256 (12 primeiros) |
-|---|---|
-| bawm-direcao | `2844ce0bfe0e` |
-| bawm-artista | `d6c5357fcdb3` |
-| bawm-producao | `8f9a0b552c42` |
+| Skill | sha256 na origem | sha256 aqui | O que mudou |
+|---|---|---|---|
+| bawm-artista | `d6c5357fcdb3` | `d6c5357fcdb3` | **nada** — verbatim |
+| bawm-direcao | `2844ce0bfe0e` | `996300685b23` | Aponta os dois modelos; pendência dos perfis do Spotify atualizada (estão reivindicados) |
+| bawm-producao | `8f9a0b552c42` | `bb14344596ae` | Aponta o modelo de dossiê |
+| suno-pro | `30d1953a984e` | `065973bbfc31` | Removida a linha com a URL do artifact do manual completo |
 
-`suno-pro` veio da mesma origem (`30d1953a984e`) com **uma única alteração**: removida a linha que apontava para o artifact do manual completo, para não expor o identificador num repo que pode vir a ser público. Nada mais foi tocado — o arquivo aqui é `065973bbfc31`. O manual completo continua existindo fora do repo.
+Nenhuma dessas alterações mexe em método, número ou regra: são ponteiros para os modelos, mais uma correção de fato e a remoção de uma URL. O conteúdo técnico e de compliance segue como estava.
 
-`suno-pro` também não é etapa da cadeia — é o manual de operação do Suno, e serve a qualquer projeto de música. Está aqui porque `bawm-arranjador` e `bawm-producao` a invocam pelo nome: sem ela, o plugin instalado numa conta limpa teria as mesmas referências quebradas que motivaram este repo.
+`suno-pro` não é etapa da cadeia — é o manual de operação do Suno, e serve a qualquer projeto de música. Está aqui porque `bawm-arranjador` e `bawm-producao` a invocam pelo nome: sem ela, o plugin instalado numa conta limpa teria as mesmas referências quebradas que motivaram este repo.
 
 ## Estrutura
 
