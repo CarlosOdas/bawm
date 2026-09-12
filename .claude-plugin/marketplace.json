@@ -1,0 +1,22 @@
+{
+  "name": "bawm",
+  "owner": {
+    "name": "Carlos Alberto Odas"
+  },
+  "metadata": {
+    "description": "Skills do selo BAWM — Brazilian Artificial World Music",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "bawm",
+      "source": "./plugins/bawm",
+      "description": "Etapas 2, 3, 5 e 6 da cadeia do BAWM: bawm-letrista, bawm-arranjador, bawm-lancamento e bawm-marketing.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Carlos Alberto Odas"
+      },
+      "keywords": ["bawm", "musica", "suno", "selo", "world-music"]
+    }
+  ]
+}
