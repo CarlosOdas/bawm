@@ -2,7 +2,7 @@
 
 Skills do selo **BAWM — Brazilian Artificial World Music**, de Carlos Alberto Odas.
 
-A cadeia tem **sete funções**, cada uma produzindo um artefato que a seguinte consome. Todas estão neste repo.
+A cadeia tem **sete funções**, cada uma produzindo um artefato que a seguinte consome. Todas estão neste repo, mais o manual de operação do Suno que duas delas invocam.
 
 ```
 1. bawm-direcao     briefing: artista, tema, geografia sonora, função no plano
@@ -13,6 +13,7 @@ A cadeia tem **sete funções**, cada uma produzindo um artefato que a seguinte 
 6. bawm-marketing   pitch, Canvas, cortes, calendário
 
    bawm-artista     personas do elenco — consultada por todas as etapas
+   suno-pro         mecânica de prompt do Suno — usada por 3 e 4
 ```
 
 Trabalhe **uma faixa por vez** até o dossiê fechar. Comece pela `bawm-direcao`: ela é a porta de entrada e despacha para as outras.
@@ -24,32 +25,35 @@ Trabalhe **uma faixa por vez** até o dossiê fechar. Comece pela `bawm-direcao`
 /plugin install bawm@bawm
 ```
 
-As sete ficam disponíveis como `/bawm:bawm-direcao`, `/bawm:bawm-letrista` e assim por diante — e carregam sozinhas quando a conversa bate com a descrição de cada uma.
+As oito ficam disponíveis como `/bawm:bawm-direcao`, `/bawm:bawm-letrista` e assim por diante — e carregam sozinhas quando a conversa bate com a descrição de cada uma.
+
+O plugin é **autocontido**: toda skill que outra invoca por nome está aqui dentro. Instalar o plugin numa conta limpa não deixa referência pendurada.
 
 ### ⚠️ Antes de instalar: remova as duplicatas da conta
 
-`bawm-direcao`, `bawm-artista` e `bawm-producao` **também existem como skills sincronizadas na conta Claude** (aparecem como `anthropic-skills:bawm-…`). Instalar este plugin sem mexer nelas deixa **duas cópias com o mesmo `name`** — o disparo automático fica ambíguo e uma edição no repo não aparece na cópia da conta.
+`bawm-direcao`, `bawm-artista`, `bawm-producao` e `suno-pro` **também existem como skills sincronizadas na conta Claude** (aparecem como `anthropic-skills:…`). Instalar este plugin sem mexer nelas deixa **duas cópias com o mesmo `name`** — o disparo automático fica ambíguo e uma edição no repo não aparece na cópia da conta.
 
 Escolha um dos dois caminhos e siga só ele:
 
-- **Repo como fonte de verdade** (recomendado) — instale o plugin e **apague as três skills sincronizadas** pela interface de skills da conta. A partir daí, editar é `git commit`.
-- **Conta como fonte de verdade** — não instale o plugin; trate este repo como arquivo e histórico, e suba as quatro novas avulsas pela interface, como foi feito com as três primeiras.
+- **Repo como fonte de verdade** (recomendado) — instale o plugin e **apague as quatro skills sincronizadas** pela interface de skills da conta. A partir daí, editar é `git commit`.
+- **Conta como fonte de verdade** — não instale o plugin; trate este repo como arquivo e histórico, e suba as quatro novas avulsas pela interface, como foi feito com as primeiras.
 
 Misturar os dois é o que dá problema.
 
 ## Procedência
 
-As quatro etapas que faltavam — `bawm-letrista`, `bawm-arranjador`, `bawm-lancamento` e `bawm-marketing` — foram escritas para este repo, a partir do cânone estabelecido nas outras três.
+Escritas para este repo, a partir do cânone estabelecido nas outras: `bawm-letrista`, `bawm-arranjador`, `bawm-lancamento` e `bawm-marketing`.
 
-`bawm-direcao`, `bawm-artista` e `bawm-producao` foram copiadas **verbatim** das skills sincronizadas da conta, sem uma vírgula alterada, e conferidas por checksum:
+Copiadas **verbatim** das skills sincronizadas da conta, sem uma vírgula alterada e conferidas por checksum:
 
 | Skill | sha256 (12 primeiros) |
 |---|---|
 | bawm-direcao | `2844ce0bfe0e` |
 | bawm-artista | `d6c5357fcdb3` |
 | bawm-producao | `8f9a0b552c42` |
+| suno-pro | `30d1953a984e` |
 
-A skill auxiliar `suno-pro` — manual de operação do Suno, usada por `bawm-arranjador` e `bawm-producao` — **não está aqui**: não é etapa da cadeia e serve a qualquer projeto de música, não só ao selo.
+`suno-pro` não é etapa da cadeia — é o manual de operação do Suno, e serve a qualquer projeto de música. Está aqui porque `bawm-arranjador` e `bawm-producao` a invocam pelo nome: sem ela, o plugin instalado numa conta limpa teria as mesmas referências quebradas que motivaram este repo.
 
 ## Estrutura
 
@@ -65,6 +69,7 @@ plugins/bawm/
     bawm-producao/SKILL.md
     bawm-lancamento/SKILL.md
     bawm-marketing/SKILL.md
+    suno-pro/SKILL.md
 ```
 
 ## Convenções
