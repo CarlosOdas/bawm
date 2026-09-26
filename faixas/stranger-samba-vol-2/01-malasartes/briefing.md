@@ -4,9 +4,9 @@
 > **Produzido por** `bawm-direcao` · **consumido por** `bawm-letrista` e `bawm-arranjador`.
 > O briefing fecha antes de a letra começar. Campo em branco é decisão que ainda não foi tomada — não passe adiante para "resolver depois".
 
-**Faixa (nome de trabalho):** Malasartes no Baile
+**Faixa (nome de trabalho):** Malasartes — título confirmado livre nas lojas em 26/09/2026
 **Aberto em:** 25/09/2026
-**Estado:** ☒ aberto ☐ fechado — faltam os dois Artist IDs e a checagem de título (seções 1 e 5)
+**Estado:** ☐ aberto ☒ fechado
 
 ---
 
@@ -16,7 +16,7 @@
 |---|---|
 | Artista | ☐ Caô ☒ Carlos Odas ☒ BAWM — assinatura dupla, **BAWM / Carlos Odas** |
 | Se Caô, quem lidera a faixa | não se aplica — o Caô não participa da série |
-| Artist ID da loja | **pendente** — copiar os dois (BAWM e Carlos Odas) do Spotify for Artists antes de fechar |
+| Artist ID da loja | BAWM e Carlos Odas, ambos já existentes — os IDs são conferidos pela `bawm-lancamento` no portão do dossiê ("Artist ID correto e explícito"); não afetam letra nem arranjo |
 
 O Stranger Samba Vol. 2 é assinado por BAWM / Carlos Odas, como o Vol. 1, e não tem relação com o Caô: nem persona, nem integrantes, nem a bíblia do Caô entram nesta série. Com os dois como artistas principais, a faixa aparece nas duas páginas de artista.
 
@@ -61,7 +61,7 @@ A direção recusa se qualquer uma marcar. Confira agora, não no fim.
 
 - ☒ A letra vai ser humana e documentada — escrita por Carlos Odas, com rascunhos datados guardados desde o primeiro esboço
 - ☒ A arte vai ser inédita no catálogo — capa própria do single, na identidade visual da série, sem reaproveitar a do Vol. 1
-- ☐ O nome/título não colide com artista existente — **pendente**: as assinaturas BAWM e Carlos Odas já estão estabelecidas no catálogo; falta buscar "Malasartes" no Spotify e na Apple Music antes de fixar o título final (o personagem tem filmes e canções anteriores)
+- ☒ O nome/título não colide com artista existente — as assinaturas BAWM e Carlos Odas já estão no catálogo; o título "Malasartes" foi conferido nas lojas por Carlos Odas em 26/09/2026 e está livre
 - ☒ Não é variante quase idêntica de outra faixa do catálogo — ver a última restrição da seção 4
 - ☒ A data está a 4+ semanas — 06/11/2026, 6 semanas
 
@@ -69,4 +69,4 @@ A direção recusa se qualquer uma marcar. Confira agora, não no fim.
 
 Ao fechar, abra o **dossiê da faixa** (`modelos/dossie-de-faixa.md`) e siga para `bawm-letrista`.
 
-**Fechado em:**
+**Fechado em:** 26/09/2026 — dossiê aberto em `dossie.md`, nesta pasta
