@@ -68,22 +68,26 @@ Se houve coautoria, **quais linhas** e de quem partiram:
 
 **Bloco Styles — exato, como foi colado:**
 ```
-
+hypnotic 1970s samba rock foundation with soul groove, laid-back spoken-sung lead vocal, percussive violão strumming, funky electric bass, cuíca, short brass stabs, call-and-response group choir
 ```
+
+> Pacote de 26/09/2026 (`arranjo-v1.md`). Confirmar que foi colado sem alteração no dia da geração.
 
 **Exclude styles — exato:**
 ```
-
+autotune, 808, synth lead
 ```
 
 | | |
 |---|---|
-| Weirdness | |
-| Style Influence | |
+| Weirdness | 35 |
+| Style Influence | 75 |
 | Audio Influence (se houve áudio anexado) | |
-| Vocal Gender | ☐ Male ☐ Female |
+| Vocal Gender | ☒ Male ☐ Female |
 
 **Mapa da faixa** (de `bawm-arranjador`) — quem toca em cada seção:
+
+- Ver `arranjo-v1.md`, seção 1: intro com violão e cuíca; versos falado-cantados; refrão com metais e coro; ponte sem bateria nem metais; break de metais; refrão duplo; coda quase falada com fim seco.
 
 **Gerações:**
 
