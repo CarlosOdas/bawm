@@ -18,7 +18,7 @@
 | Se Caô, quem lidera a faixa | não se aplica — o Caô não participa da série |
 | Artist ID da loja | **pendente** — copiar os dois (BAWM e Carlos Odas) do Spotify for Artists antes de fechar |
 
-O Stranger Samba Vol. 2 é assinado por BAWM / Carlos Odas e não tem relação com o Caô: nem persona, nem integrantes, nem a bíblia do Caô entram nesta série. Com os dois como artistas principais, a faixa aparece nas duas páginas de artista.
+O Stranger Samba Vol. 2 é assinado por BAWM / Carlos Odas, como o Vol. 1, e não tem relação com o Caô: nem persona, nem integrantes, nem a bíblia do Caô entram nesta série. Com os dois como artistas principais, a faixa aparece nas duas páginas de artista.
 
 ## 2. A tese desta faixa
 

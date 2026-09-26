@@ -35,7 +35,7 @@ Trabalhe **uma faixa por vez** até o dossiê fechar.
 
 **Identidade.** Selo digital brasileiro de música feita com apoio de IA, de Carlos Alberto Odas, em Brasília. BAWM é ao mesmo tempo selo e nome de artista no Spotify. Campo de gravadora em todo release: `BAWM - Brazilian Artificial World Music`. Canal no YouTube: @carlosodasmusic.
 
-**Elenco.** *Caô* (coletivo digital brasileiro, cinco integrantes — ver `bawm-artista`), *Carlos Odas* (assinatura solo) e *BAWM* (assinatura coletiva).
+**Elenco.** *Caô* (coletivo digital brasileiro, cinco integrantes — ver `bawm-artista`), *Carlos Odas* (assinatura solo) e *BAWM* (assinatura coletiva). A série *Stranger Samba* sai em assinatura dupla, **BAWM / Carlos Odas**, e não tem relação com o Caô.
 
 **Catálogo lançado.**
 
@@ -47,7 +47,7 @@ Trabalhe **uma faixa por vez** até o dossiê fechar.
 | Caô | Contas Para Um Colar (Segundo Ato) | EP, 5 faixas | 13/02/2026 |
 | Caô | Efeito Borboleta | Single | 04/06/2026 |
 | Caô | Meu Rio Corre a Ti | Single | 27/06/2026 |
-| BAWM | Stranger Samba | EP, 5 faixas em 4 línguas | 21/08/2026 |
+| BAWM / Carlos Odas | Stranger Samba | EP, 5 faixas em 4 línguas | 21/08/2026 |
 
 **Padrões técnicos.** Suno v5.5 · Audacity 3.7.9 (não 4.0) · LANDR, padrão histórico **Warm / Medium**.
 
