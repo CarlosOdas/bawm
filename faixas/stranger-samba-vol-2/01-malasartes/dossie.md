@@ -26,22 +26,30 @@
 
 | | |
 |---|---|
-| Quem escreveu a letra (nome completo) | |
-| Quando (datas de início e fim) | |
+| Quem escreveu a letra (nome completo) | v1: proposta integralmente pela IA (Claude), em coautoria assistida. Responsável humano pela obra: Carlos Alberto Odas — ainda sem linhas próprias |
+| Quando (datas de início e fim) | início 26/09/2026 (v1) — fim: |
 | Onde (cidade) | |
 
 **Rascunhos** — onde estão os arquivos, com data de modificação preservada. A cadeia de rascunhos é a prova mais forte que existe:
+
+- `letra-v1.md`, nesta pasta — 26/09/2026. Data preservada pelo commit no repositório `carlosodas/bawm`.
 
 **Decisões** — o que mudou entre a primeira versão e a final, e por quê (2 ou 3 linhas):
 
 **Modo de assistência usado:**
 - ☐ Oficina (crítica, escansão, apontamento) — autoria 100% humana
 - ☐ Provocação (imagens, campo semântico, perguntas) — autoria 100% humana
-- ☐ **Coautoria assistida** — autoria **mista**. Não registre como obra puramente humana
+- ☒ **Coautoria assistida** — autoria **mista**. Não registre como obra puramente humana
 
 Se houve coautoria, **quais linhas** e de quem partiram:
 
+- v1 (26/09/2026): **todas as linhas partiram da IA.** Nenhuma é de Carlos Odas ainda. A partir da v2, cada linha é marcada no próprio arquivo como [CO] Carlos Odas, [IA] proposta da IA mantida, ou [CO/IA] proposta da IA reescrita por Carlos Odas.
+
 **Fontes e referências** — verso que cita, adapta ou responde a domínio público:
+
+- Pedro Malasartes, personagem do folclore ibérico e brasileiro (domínio público).
+- O golpe do urubu "adivinho" vendido a um ricaço adapta um conto popular do ciclo de Malasartes, também de domínio público. A coletânea exata onde ele está registrado ainda não foi conferida — **conferir antes de fechar o bloco.**
+- Nenhum verso cita ou adapta letra de Jorge Ben, Wilson Simonal, Bebeto ou outro artista.
 
 ## 2. Componente de IA
 
