@@ -33,8 +33,11 @@
 **Rascunhos** — onde estão os arquivos, com data de modificação preservada. A cadeia de rascunhos é a prova mais forte que existe:
 
 - `letra-v1.md`, nesta pasta — 26/09/2026. Data preservada pelo commit no repositório `carlosodas/bawm`.
+- `letra-v2.md`, nesta pasta — 26/09/2026. Mesmo registro por commit.
 
 **Decisões** — o que mudou entre a primeira versão e a final, e por quê (2 ou 3 linhas):
+
+- 26/09/2026, v1 → v2: Carlos Odas recusou a v1, uma narrativa linear (a chegada ao baile e o golpe do urubu), e definiu a direção da v2: *"menos storytelling e mais signos, algo mais cifrado, que faça pensar"*. A letra passou para a primeira pessoa, com enigmas no lugar de enredo.
 
 **Modo de assistência usado:**
 - ☐ Oficina (crítica, escansão, apontamento) — autoria 100% humana
@@ -44,11 +47,13 @@
 Se houve coautoria, **quais linhas** e de quem partiram:
 
 - v1 (26/09/2026): **todas as linhas partiram da IA.** Nenhuma é de Carlos Odas ainda. A partir da v2, cada linha é marcada no próprio arquivo como [CO] Carlos Odas, [IA] proposta da IA mantida, ou [CO/IA] proposta da IA reescrita por Carlos Odas.
+- v2 (26/09/2026): **todas as linhas partiram da IA**, a partir da direção dada por Carlos Odas. A direção é decisão humana registrada, mas não é autoria de verso.
 
 **Fontes e referências** — verso que cita, adapta ou responde a domínio público:
 
 - Pedro Malasartes, personagem do folclore ibérico e brasileiro (domínio público).
-- O golpe do urubu "adivinho" vendido a um ricaço adapta um conto popular do ciclo de Malasartes, também de domínio público. A coletânea exata onde ele está registrado ainda não foi conferida — **conferir antes de fechar o bloco.**
+- v1: o golpe do urubu "adivinho" vendido a um ricaço adapta um conto popular do ciclo de Malasartes, também de domínio público. A coletânea exata onde ele está registrado ainda não foi conferida — **conferir antes de fechar o bloco, se algo da v1 for mantido.**
+- v2: alude à sopa de pedra (conto popular, domínio público); a "Pedro é pedra" (etimologia do nome e eco de Mateus 16:18, domínio público); e a Pedro de Urdemalas ("meu avô teceu o engano").
 - Nenhum verso cita ou adapta letra de Jorge Ben, Wilson Simonal, Bebeto ou outro artista.
 
 ## 2. Componente de IA
