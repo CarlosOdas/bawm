@@ -28,9 +28,27 @@ Isto é tudo o que a faixa afirma sobre ele. É cânone a partir de hoje, e as o
 - *Passado não tem endereço, nem trem, nem estação*.
 - Dá adeus à própria sorte e à própria terra, e **sobe de volta a serra com a chave na mão**. A chave não foi usada para ficar.
 
-**Cânone anterior:** Loupi estreou em **"Loupi Garoupi Tem Vontade de Partir"**, no *Primeiro Ato* (16/01/2026). A **vontade de partir já foi cantada**. Este EP não volta a ela: começa antes (a infância) e continua depois (a vida longe, a volta, a subida).
+**Cânone anterior:** Loupi estreou em **"Loupi Garoupi Tem Vontade de Partir"**, no *Primeiro Ato* (16/01/2026). Letra em [`canone/loupi-garoupi-tem-vontade-de-partir.md`](canone/loupi-garoupi-tem-vontade-de-partir.md). A **vontade de partir já foi cantada**. Este EP não volta a ela: começa antes (a infância) e continua depois (a vida longe, a volta, a subida).
 
-> ⚠️ **Pendência:** a letra de *"…Tem Vontade de Partir"* precisa entrar nesta pasta antes da primeira letra nova. É ela que diz para onde ele queria ir, e por quê. Nada no EP pode contradizê-la.
+### Loupi, pelo que o *Primeiro Ato* diz
+
+- **A origem é indígena.** Ele se lembra *"de como era entre as tabas / entre a gente, na ocara / em volta da fogueira"*. Taba e ocara são a aldeia tupi e o terreiro no centro dela. **A "gente" dele era uma comunidade, e ela acabou.**
+- **Já estava sozinho antes de partir.** *"Hoje apenas encontro companhia / quando a água reflete a minha imagem"*. O *sozinho* do título do EP começa aqui, não na volta.
+- **Queria encontrar amigos em outro lugar** e *conhecer os luares que descem a serra*.
+- **Tinha medo da viagem e das histórias do mar.**
+- **A lua cheia é a imagem dele:** a lua grande lá fora traz de volta a ocara.
+
+### Onde as duas letras se tocam, e a decisão que isso exige
+
+A referência põe o berço de Loupi numa **cidade** com praça, chafariz, sino e casa de portão. O *Primeiro Ato* põe a infância dele **numa aldeia**, com taba, ocara e fogueira. As duas letras são do Carlos, e as duas são cânone.
+
+**Proposta da direção: é o mesmo lugar em dois tempos.** A cidade cresceu em cima da aldeia, como aconteceu com muitos aldeamentos no Brasil colonial e imperial: a igreja foi erguida junto da aldeia, a ocara virou a praça, e o fogo do centro virou o chafariz. O menino que puxava a corda do sino era um menino da aldeia, e o sino era o da missão. Na volta, *"tudo está lá"*, só que por cima do que era. E *"passado não tem endereço"* fica mais duro: o endereço da infância dele nunca foi a rua.
+
+Com isso, o Afro-Barroco do Caô ganha no EP a terceira raiz que o termo já pressupõe, a indígena, sem inventar nada que as duas letras não sustentem.
+
+> ⚠️ **Decisão pendente do Carlos:** aceitar ou não a leitura "a cidade cresceu em cima da aldeia". Ela muda a faixa 1 por inteiro. Sem essa decisão, *Loupi Menino* não entra na oficina.
+
+**Motivos herdados do *Primeiro Ato*, que passam a valer para o EP:** a **lua cheia**, a **água que devolve o reflexo** (a única companhia dele) e **o mar temido**.
 
 ### Nome: grafia oficial e grafia fonética
 
@@ -62,9 +80,9 @@ Tirado das tags da própria faixa:
 3. **A cidade responde entre parênteses.** Os ecos *(Sozinho em procissão)*, *(Com a chave na mão)* são o coro, a cidade devolvendo a frase para ele.
 4. **A serra como interlocutora.** *"Oh serra"*: a paisagem é chamada pelo nome e ouve.
 5. **Flauta modal e arpejo de nylon.** Lia e Glória fazem a ponte com Minas dos anos 70, a psicodelia mineira de serra e trem.
-6. **Três objetos:** a **chave**, o **sino** e o **terço**. Cada faixa nova herda pelo menos um.
+6. **Três objetos:** a **chave**, o **sino** e o **terço**. Cada faixa nova herda pelo menos um. Do *Primeiro Ato* vêm mais três motivos: a **lua cheia**, a **água-espelho** e o **mar**.
 
-**Geografia sonora do EP:** o interior de Minas abaixo da serra, com três coisas se cruzando. As irmandades do Rosário e o congado (a herança africana que o Afro-Barroco do Caô já carrega), o sino e a talha das igrejas barrocas, e a canção mineira de serra e ferrovia dos anos 70. É o lado **Minas** da travessia Minas–Rio do Caô, levado ao limite.
+**Geografia sonora do EP:** o interior de Minas abaixo da serra, com três coisas se cruzando. As irmandades do Rosário e o congado (a herança africana que o Afro-Barroco do Caô já carrega), o sino e a talha das igrejas barrocas, e a canção mineira de serra e ferrovia dos anos 70. Por baixo de tudo, **a aldeia que veio antes da cidade** (a ocara, a fogueira, a lua cheia do *Primeiro Ato*). É o lado **Minas** da travessia Minas–Rio do Caô, levado ao limite, e com as três raízes do Afro-Barroco à mostra.
 
 ## 3. O EP — cinco estações de uma procissão
 

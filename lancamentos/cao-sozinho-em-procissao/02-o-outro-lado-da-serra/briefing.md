@@ -17,15 +17,18 @@
 
 ## 2. A tese desta faixa
 
-**Geografia sonora:** o outro lado da serra. Provavelmente **o Rio**, a outra ponta da travessia do Caô: balanço carioca, samba-canção de câmara, nylon e percussão de mão numa noite de cidade grande. **Destino a confirmar contra *"…Tem Vontade de Partir"*:** se aquela letra diz para onde ele queria ir, é para lá que ele foi.
+**Geografia sonora:** o outro lado da serra. Provavelmente **o Rio**, a outra ponta da travessia do Caô: balanço carioca, samba-canção de câmara, nylon e percussão de mão numa noite de cidade grande. O *Primeiro Ato* não nomeia um destino, então o Rio continua de pé. E ganha peso: Loupi **temia o mar e as histórias do mar**. Uma cidade à beira do mar é exatamente o que ele temia. A faixa pode ser ele diante do mar pela primeira vez.
 
-**Tema:** a vida que a partida deu. O *Primeiro Ato* cantou a vontade de ir; a faixa 3 canta a volta. **O meio é a única parte da vida de Loupi que ninguém cantou**: os anos longe, e se a vontade de partir se cumpriu ou não.
+**Tema:** a vida que a partida deu. O *Primeiro Ato* cantou a vontade de ir; a faixa 3 canta a volta. **O meio é a única parte da vida de Loupi que ninguém cantou**. O *Primeiro Ato* deixou três promessas, e esta faixa responde a elas:
+- *"Encontrar amigos em outro lugar"*: encontrou? A faixa 3 diz que ele volta **sozinho**. Ou não encontrou, ou perdeu.
+- *"Conhecer os luares que descem a serra"*: a lua do outro lado é a mesma lua da ocara?
+- *"Temo a viagem e as histórias do mar"*: ele viu o mar.
 
 **A pessoa:** Loupi adulto, estabelecido do outro lado. Conseguiu o que queria, ou parte. O que o impede de ficar inteiro ali é uma **chave que não abre nenhuma porta da cidade onde mora**. Ele a guarda, e não sabe explicar por quê.
 
 **A travessia:** interna. De "fui embora" para "nunca saí de lá". A faixa termina com a decisão de descer a serra, que é exatamente onde a faixa 3 começa (*"Loupi Garoupi desce a serra"*).
 
-**Imagem única (sugestão, o letrista decide):** **a chave numa gaveta**, no meio de coisas que abrem portas de verdade. Ou o sino da infância ouvido de repente num sino de igreja da cidade grande, que é outro sino e soa igual.
+**Imagem única (sugestão, o letrista decide):** **a lua cheia vista sobre o mar**, na mesma cidade que ele temia; é a lua do *Primeiro Ato*, noutro lugar. Ou **a chave numa gaveta**, no meio de coisas que abrem portas de verdade. Ou a água: no *Primeiro Ato* ela devolvia a imagem dele, e o mar não devolve nada.
 
 ## 3. Função no plano
 

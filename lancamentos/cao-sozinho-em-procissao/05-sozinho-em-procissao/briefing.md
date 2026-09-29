@@ -19,6 +19,8 @@
 
 **Geografia sonora:** a festa do Rosário em Minas. Irmandades do Rosário dos pretos, guardas de congado e moçambique subindo a ladeira com tambores e caixas, e o sino da matriz. É o coração africano do Afro-Barroco do Caô, e o **rosário é literalmente um colar de contas**.
 
+Em festas mineiras de cortejo existem também guardas de **caboclinhos**, que encenam os indígenas, e de **marujos**, que encenam o mar (por exemplo, nas Festas de Agosto de Montes Claros; confira a festa escolhida antes de citar). Se o letrista quiser, **a procissão que passa lá embaixo traz ao mesmo tempo a aldeia de onde Loupi veio e o mar que ele temia**. A vida inteira dele atravessa a festa sem ele.
+
 **Tema:** a subida da serra, agora como procissão. Na referência Loupi *"conta as curvas feito um terço / sozinho em procissão"*. Esta faixa **realiza essa metáfora**: cada curva da estrada é uma conta, e a subida inteira é um terço rezado. Lá embaixo, a cidade faz a sua procissão de verdade, com tambores. Ele faz a dele, sozinho, lá em cima.
 
 **A pessoa:** Loupi, na última imagem que o EP dá dele. O que ele quer é ir embora em paz. O que o impede, ou o acompanha, é o som da festa que sobe a serra atrás dele.
@@ -43,6 +45,7 @@
 - **Não repete o *outro* falado da referência** (*"E sobe de volta a serra"*). Pode citá-lo **uma vez**, cantado, como fecho do disco.
 
 **Herda da referência:** o **terço**, a **serra**, a **procissão**, a **chave** (o que ele faz com ela no alto da serra é decisão do letrista), e possivelmente o **sino** da faixa 1, fechando o círculo.
+**Herda do *Primeiro Ato*:** a **lua cheia**, que fecha o arco inteiro de Loupi. A primeira coisa que ele disse no catálogo foi *"Gosto quando tem lua grande lá fora"*. A subida pode ser à noite, de lua cheia, com a fogueira da festa lá embaixo.
 
 ## 5. Direção sonora (para `bawm-arranjador`)
 

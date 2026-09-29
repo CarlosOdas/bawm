@@ -17,9 +17,9 @@
 
 ## 2. A tese desta faixa
 
-**Geografia sonora:** cidade mineira abaixo da serra num dia de festa. Sino de igreja barroca, largo da matriz, meninada correndo em volta do chafariz. É o lado claro do EP.
+**Geografia sonora:** a aldeia abaixo da serra no tempo em que a missão e a ocara ainda convivem. A igreja com sino fica de um lado; do outro, as tabas, a fogueira e a lua cheia. É o lado claro do EP. *(Depende da decisão pendente no README: "a cidade cresceu em cima da aldeia". Se ela for recusada, a geografia volta a ser a cidade barroca com largo da matriz.)*
 
-**Tema:** o menino que puxava a corda do sino. A referência diz que *"só não encontra lá o menino / que um dia foi feliz"*. Esta faixa é esse menino, no presente dele.
+**Tema:** o menino que puxava a corda do sino **e** dormia em volta da fogueira na ocara. A referência diz que *"só não encontra lá o menino / que um dia foi feliz"*; o *Primeiro Ato* lembra *"como era entre as tabas"*. **Esta faixa é esse "como era", encenado no presente**: a única vez no universo em que Loupi não está sozinho.
 
 **A pessoa:** Loupi com uns dez anos. O que ele quer é ser quem toca o sino: dar voz à cidade inteira com o peso do próprio corpo pendurado numa corda. O que o impede é ser pequeno demais, ainda. Ou então ele já consegue, e isso é tudo o que precisa saber da vida.
 
@@ -45,7 +45,10 @@
 
 Tabus permanentes do Caô: ironia fácil, gíria de internet, tema de consumo, nada que soe a jingle.
 
-**Herda da referência:** o **sino** (*"puxando a corda do sino"*), a praça, o chafariz e o giz no muro. Os quatro precisam estar lá como eram, porque na faixa 3 *"tudo está lá"*.
+**Herda da referência:** o **sino** (*"puxando a corda do sino"*). Se a leitura da aldeia for aceita, o lugar que depois vira praça e chafariz aparece aqui ainda como ocara e fogueira.
+**Herda do *Primeiro Ato*:** a **lua cheia**, a **fogueira**, **"a gente"**. Esta é a faixa em que a comunidade existe; ela precisa ser concreta, com gente nomeada ou com gestos, para que a solidão das outras quatro pese.
+
+- **Não é idílio indígena de cartão-postal.** Nada de vocabulário tupi decorativo além do que o *Primeiro Ato* já usa (taba, ocara). Se o letrista quiser mais, é pesquisa e fonte registrada no dossiê, não enfeite.
 
 ## 5. Direção sonora (para `bawm-arranjador`)
 
