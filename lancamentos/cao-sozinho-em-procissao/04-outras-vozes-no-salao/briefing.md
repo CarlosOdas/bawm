@@ -63,6 +63,8 @@ intimista e noturno
 ```
 Vocal Gender: **Female** · Sliders **30 / 80** (câmara mais nua) · Exclude: o do Caô.
 
+**Nome no Suno:** grafia fonética **Lupi Garupi** na caixa Lyrics; **Loupi Garoupi** em todo o resto (ver README do EP).
+
 ## 6. Checagem de veto
 
 - ☐ A letra vai ser humana e documentada

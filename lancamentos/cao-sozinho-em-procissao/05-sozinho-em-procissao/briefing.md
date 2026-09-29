@@ -63,6 +63,8 @@ cortejo de congado mineiro em crescendo
 ```
 Vocal Gender: **Male** · Sliders 35 / 75 · Exclude: o do Caô.
 
+**Nome no Suno:** grafia fonética **Lupi Garupi** na caixa Lyrics; **Loupi Garoupi** em todo o resto (ver README do EP).
+
 ⚠️ `cortejo de congado mineiro` puxa percussão pesada. Se a geração engolir as cordas, desça o crescendo para as tags (`[Chorus - congado drums, choir]` só no último refrão) e troque o descritor 7 por `crescendo ritual`.
 
 ## 6. Checagem de veto

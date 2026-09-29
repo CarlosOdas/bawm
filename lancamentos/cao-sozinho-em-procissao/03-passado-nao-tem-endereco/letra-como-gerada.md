@@ -3,7 +3,7 @@
 > Transcrição literal do campo de letra (USLT) embutido no download do Suno
 > `7a7c63c6-b128-4dbd-8a54-69a7846f4a21`, extraída em 29/09/2026. **Com tags**, exatamente como foi colada no Suno.
 > Não é o rascunho de autoria: os rascunhos humanos vão no bloco 1 do dossiê.
-> ⚠️ Grafia divergente: "Loupi" nas estrofes, "Lupi" no refrão. Decidir antes do release.
+> ⚠️ Grafia mista por causa da pronúncia: "Loupi" nas estrofes (o Suno falou *lôu-pi*, errado) e "Lupi" no refrão (saiu *lupi*, certo). Pronúncia correta: *lupi garupi*. Grafia oficial para as lojas: **Loupi Garoupi**. Ver README do EP, item 2 das pendências.
 
 ```
 [Intro - mellotron drone]

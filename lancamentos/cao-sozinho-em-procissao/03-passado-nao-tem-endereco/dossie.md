@@ -95,6 +95,8 @@ Montado a partir das tags da letra, porque a faixa foi gerada antes do pacote de
 
 **Ferramentas de edição do Suno usadas** — ☐ Replace Section ☐ Crop ☐ Extend ☒ Remaster ☐ Song Editor. O quê e onde: o arquivo é a versão **Remastered** (título e metadados). Conferir se houve outra ferramenta.
 
+**Correção prevista (Replace Section):** a linha *"Loupi Garoupi desce a serra"* sai com pronúncia errada (*lôu-pi*). Refazer só esse trecho com a letra *"Lupi Garupi desce a serra"*, que é a grafia fonética. Registrar aqui a data, o trecho substituído e quantas tentativas foram feitas.
+
 **Stems extraídos** (se houve) — modo e quantos:
 
 **ID / nome do arquivo baixado:** `7a7c63c6-b128-4dbd-8a54-69a7846f4a21` · *Passado_Não_Tem_Endereço_Remastered.mp3* (MP3 VBR ~193 kbps, 48 kHz, 4:50). O arquivo traz manifesto **C2PA** embutido (proveniência de IA): guarde o original sem regravar tags.
