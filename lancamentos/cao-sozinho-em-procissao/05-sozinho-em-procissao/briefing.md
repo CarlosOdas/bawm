@@ -17,11 +17,13 @@
 
 ## 2. A tese desta faixa
 
-**Geografia sonora:** a festa do Rosário em Minas. Irmandades do Rosário dos pretos, guardas de congado e moçambique subindo a ladeira com tambores e caixas, e o sino da matriz. É o coração africano do Afro-Barroco do Caô, e o **rosário é literalmente um colar de contas**.
+**Geografia sonora** (revista em 29/09/2026: a aldeia fica à beira-mar): **a noite de festa na cidade do litoral, vista da serra.** Lá embaixo, uma **procissão marítima**: barcos iluminados saindo para o mar, andor, tambores de cortejo na praia, o sino da igreja. Procissões de barcos são comuns nas festas de santo das cidades do litoral brasileiro (Navegantes, São Pedro); **confira a festa e o santo da cidade de referência antes de citar**. Lá em cima, Loupi sobe a serra sozinho.
 
-Em festas mineiras de cortejo existem também guardas de **caboclinhos**, que encenam os indígenas, e de **marujos**, que encenam o mar (por exemplo, nas Festas de Agosto de Montes Claros; confira a festa escolhida antes de citar). Se o letrista quiser, **a procissão que passa lá embaixo traz ao mesmo tempo a aldeia de onde Loupi veio e o mar que ele temia**. A vida inteira dele atravessa a festa sem ele.
+**O mar temido carrega agora uma procissão.** O mar que trouxe a missão e a maldição, e de onde nascia a lua da ocara, é o mesmo. A vida inteira de Loupi passa pela festa sem ele. O **rosário continua sendo um colar de contas**: o terço fica na mão dele, e não no cortejo.
 
-**Tema:** a subida da serra, agora como procissão. Na referência Loupi *"conta as curvas feito um terço / sozinho em procissão"*. Esta faixa **realiza essa metáfora**: cada curva da estrada é uma conta, e a subida inteira é um terço rezado. Lá embaixo, a cidade faz a sua procissão de verdade, com tambores. Ele faz a dele, sozinho, lá em cima.
+Se o letrista quiser um cortejo com gente encenando a origem de Loupi, marujos (o mar) e caboclinhos (os indígenas) existem em festas brasileiras, mas **precisam ser confirmados na festa escolhida**. Não invente guarda que a cidade não tem.
+
+**Tema:** a subida da serra, agora como procissão. Na referência Loupi *"conta as curvas feito um terço / sozinho em procissão"*. Esta faixa **realiza essa metáfora**: cada curva da estrada é uma conta, e a subida inteira é um terço rezado. Lá embaixo, a cidade faz a sua procissão de verdade, sobre o mar. Ele faz a dele, sozinho, lá em cima.
 
 **A pessoa:** Loupi, na última imagem que o EP dá dele. O que ele quer é ir embora em paz. O que o impede, ou o acompanha, é o som da festa que sobe a serra atrás dele.
 
@@ -29,7 +31,7 @@ Em festas mineiras de cortejo existem também guardas de **caboclinhos**, que en
 
 **A travessia:** de sozinho para acompanhado, sem deixar de estar sozinho. A procissão da cidade e a dele acabam sendo a mesma. É também a travessia do **disco**: Mi menor para **Mi maior**.
 
-**Imagem única (sugestão):** **as curvas da serra como contas de um terço**, passando entre os dedos, subindo. O tambor da festa chegando atrasado a cada curva, como um eco.
+**Imagem única (sugestão):** **as curvas da serra como contas de um terço**, passando entre os dedos, subindo. As luzes dos barcos lá embaixo como contas soltas sobre o mar.
 
 ## 3. Função no plano
 
@@ -41,7 +43,7 @@ Em festas mineiras de cortejo existem também guardas de **caboclinhos**, que en
 
 ## 4. Restrições — o que esta faixa NÃO é
 
-- **Não é folclore de cartão-postal.** O congado entra como pulso e presença, não como citação de ponto tradicional. **Não use letra de ponto ou cantiga de congado existente.** Se algum verso responder a um canto de domínio público, registre no dossiê (bloco 1, fontes).
+- **Não é folclore de cartão-postal.** A festa entra como pulso e presença, não como citação de canto tradicional. **Não use letra de cantiga, bendito ou ponto existente.** Se algum verso responder a um canto de domínio público, registre no dossiê (bloco 1, fontes).
 - **Não é reza.** Não tem Ave-Maria nem oração transcrita. A fé é popular e está no corpo, não no texto litúrgico.
 - **Não termina com Loupi voltando para a cidade.** Ele sobe. O maior é de aceitação, não de reencontro.
 - **Não repete o *outro* falado da referência** (*"E sobe de volta a serra"*). Pode citá-lo **uma vez**, cantado, como fecho do disco.
@@ -64,13 +66,13 @@ Afro-Barroco brasileiro de sotaque nativo sobre base de MPB de câmara,
 violino chorado e cordas em primeiro plano,
 violão de nylon, cello, percussão de mão,
 gravação ritual acústica e próxima em wide stereo,
-cortejo de congado mineiro em crescendo
+cortejo ritual noturno em crescendo
 ```
 Vocal Gender: **Male** · Sliders 35 / 75 · Exclude: o do Caô.
 
 **Nome no Suno:** grafia fonética **Lupi Garupi** na caixa Lyrics; **Loupi Garoupi** em todo o resto (ver README do EP).
 
-⚠️ `cortejo de congado mineiro` puxa percussão pesada. Se a geração engolir as cordas, desça o crescendo para as tags (`[Chorus - congado drums, choir]` só no último refrão) e troque o descritor 7 por `crescendo ritual`.
+⚠️ Se o cortejo engolir as cordas, desça o crescendo para as tags (`[Chorus - procession drums, choir]` só no último refrão) e troque o descritor 7 por `crescendo ritual`.
 
 ## 6. Checagem de veto
 

@@ -88,7 +88,9 @@ Tirado das tags da própria faixa:
 5. **Flauta modal e arpejo de nylon.** Lia e Glória fazem a ponte com Minas dos anos 70, a psicodelia mineira de serra e trem.
 6. **Três objetos:** a **chave**, o **sino** e o **terço**. Cada faixa nova herda pelo menos um. Do *Primeiro Ato* vêm mais três motivos: a **lua cheia**, a **água-espelho** e o **mar**.
 
-**Geografia sonora do EP:** o interior de Minas abaixo da serra, com três coisas se cruzando. As irmandades do Rosário e o congado (a herança africana que o Afro-Barroco do Caô já carrega), o sino e a talha das igrejas barrocas, e a canção mineira de serra e ferrovia dos anos 70. Por baixo de tudo, **a aldeia que veio antes da cidade** (a ocara, a fogueira, a lua cheia do *Primeiro Ato*). É o lado **Minas** da travessia Minas–Rio do Caô, levado ao limite, e com as três raízes do Afro-Barroco à mostra.
+**Geografia sonora do EP** (revista em 29/09/2026: **a aldeia fica à beira-mar**, decisão do Carlos): o litoral abaixo da Serra do Mar e a serra que sobe até Minas. Embaixo, **a aldeia à beira-mar** (ocara, fogueira, lua cheia que nasce do mar), e por cima dela a cidade colonial com igreja, sino, praça e chafariz. Paraty é a referência de desenho, mas a cidade fica **sem nome** no EP. Em cima, **Minas**, alcançada pelo caminho do ouro que sobe a serra. Congado e irmandades do Rosário moram do lado de Minas (faixa 2); o sino, a missão e a procissão marítima moram no litoral (faixas 1, 3, 4 e 5). É a travessia **Minas–Rio** do Caô feita pela vida de uma pessoa, com as três raízes do Afro-Barroco à mostra: a indígena na praia, a europeia na missão, a africana na serra e no Rosário.
+
+**O mar** foi por onde chegaram a missão e a maldição. Por isso Loupi *"teme as histórias do mar"* no *Primeiro Ato*, e por isso subir a serra é fugir do mar.
 
 ## 3. O EP — cinco estações de uma procissão
 
@@ -97,10 +99,10 @@ Um Loupi por faixa, em ordem cronológica. Cada faixa é **liderada por um integ
 | # | Nome de trabalho | Quando na vida de Loupi | Quem fala | Lidera | Tom · pulso (intenção) | Duração-alvo |
 |---|---|---|---|---|---|---|
 | 1 | **Loupi Menino** | infância, o sino | a cidade lembra dele | **Lia** (voz: Glória) | Sol maior · ~108 | 2:40–3:10 |
-| 2 | **O Outro Lado da Serra** | os anos longe: a vida que a partida deu | Loupi adulto | **Guilherme** | Si menor · ~112, balanço | 3:00–3:30 |
+| 2 | **O Outro Lado da Serra** | os anos longe, em Minas, serra acima | Loupi adulto | **Guilherme** | Si menor · ~112, toada de serra | 3:00–3:30 |
 | 3 | **Passado Não Tem Endereço** ✅ | a volta | Loupi velho | **Bento** | Mi menor · ~97 | 4:50 (feita) |
 | 4 | **Outras Vozes no Salão** | a mesma noite, do outro lado do portão | a mulher que mora hoje na casa | **Glória** | Lá menor · ~84, bossa lenta | 3:00–3:20 |
-| 5 | **Sozinho em Procissão** (faixa-título) | a subida, e o que fica | Loupi, e o cortejo | **Helena** (+ Bento, coro) | **Mi maior** · crescendo de congado | 3:40–4:20 |
+| 5 | **Sozinho em Procissão** (faixa-título) | a subida, e o que fica | Loupi, e o cortejo | **Helena** (+ Bento, coro) | **Mi maior** · crescendo de cortejo | 3:40–4:20 |
 
 **Por que esta ordem.**
 - **Tonalidades:** as quatro giram em volta do Mi menor da referência: relativa maior (1), dominante (2), subdominante (4) e, na faixa 5, Mi **maior**. O EP abre em luz, escurece até a volta e só resolve no fim.

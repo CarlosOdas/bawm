@@ -17,7 +17,7 @@
 
 ## 2. A tese desta faixa
 
-**Geografia sonora:** o interior da casa mineira. Salão de assoalho de tábua, janela de madeira para a rua, a mesma rua da praça. É a faixa mais íntima do EP: bossa de câmara, quase música de sala.
+**Geografia sonora:** o interior de uma casa colonial do litoral. Salão de assoalho de tábua, janela de madeira para a rua de pedra, a mesma rua da praça, e o mar no fim da rua. É a faixa mais íntima do EP: bossa de câmara, quase música de sala.
 
 **Tema:** **a mesma noite da faixa 3, vista de dentro do portão.** A letra da faixa 3 não fixa a hora; o mito fixa: a visita é de noite, de lua. A referência diz *"a casa tem outra pintura / outras vozes no salão"*. Esta faixa dá voz a uma dessas vozes.
 

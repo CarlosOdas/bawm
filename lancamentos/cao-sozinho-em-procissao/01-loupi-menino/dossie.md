@@ -26,8 +26,8 @@
 
 | | |
 |---|---|
-| Quem escreveu a letra (nome completo) | |
-| Quando (datas de início e fim) | |
+| Quem escreveu a letra (nome completo) | Carlos Alberto Odas, **em coautoria assistida por IA** (ver linhas abaixo) |
+| Quando (datas de início e fim) | início 29/09/2026 (v1) · v2 em 29/09/2026 |
 | Onde (cidade) | |
 
 **Rascunhos** — onde estão os arquivos, com data de modificação preservada. A cadeia de rascunhos é a prova mais forte que existe:
@@ -35,15 +35,18 @@
 | Versão | Data | Onde | Observação |
 |---|---|---|---|
 | v1 | 29/09/2026 | `rascunhos/v1-2026-09-29.md` | 8 linhas, escritas pelo Carlos. Guarde também o original, se foi escrito à mão ou em outro arquivo |
+| v2 | 29/09/2026 | `letra.md` | coautoria: estrofes e fecho da ponte propostos pelo assistente sobre o material do Carlos |
 
 **Decisões** — o que mudou entre a primeira versão e a final, e por quê (2 ou 3 linhas):
 
 **Modo de assistência usado:**
 - ☐ Oficina (crítica, escansão, apontamento) — autoria 100% humana
 - ☐ Provocação (imagens, campo semântico, perguntas) — autoria 100% humana
-- ☐ **Coautoria assistida** — autoria **mista**. Não registre como obra puramente humana
+- ☒ **Coautoria assistida** — autoria **mista**. Não registre como obra puramente humana
 
 Se houve coautoria, **quais linhas** e de quem partiram:
+
+Tabela verso a verso em [`letra.md`](letra.md#autoria-verso-a-verso). Resumo: refrão, jogo do nome na ponte e coda são do Carlos (9 versos distintos, 2 com ajuste de métrica); as quatro estrofes e os dois versos finais da ponte são propostas do assistente aceitas pelo Carlos (18 versos). Coautoria autorizada pelo Carlos em 29/09/2026, ciente de que a obra não se registra como puramente humana ("não me preocupa a questão do ECAD").
 
 **Material do autor anterior ao rascunho:**
 - 29/09/2026 — nome **Clarinda** e o jogo *clara, clarinha, clara estrela, estrela linda, Clarinda*, propostos pelo Carlos na conversa de direção. Clarinda era o nome da mãe dele: é homenagem.

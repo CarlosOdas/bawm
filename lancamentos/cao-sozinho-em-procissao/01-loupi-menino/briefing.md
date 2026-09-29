@@ -17,7 +17,7 @@
 
 ## 2. A tese desta faixa
 
-**Geografia sonora:** a aldeia abaixo da serra no tempo em que a missão e a ocara ainda convivem. A igreja com sino fica de um lado; do outro, as tabas, a fogueira e a lua cheia. É o lado claro do EP. *(Leitura da aldeia decidida em 29/09/2026.)*
+**Geografia sonora:** **a aldeia à beira-mar**, abaixo da Serra do Mar, no tempo em que a missão e a ocara ainda convivem. A igreja com sino fica de um lado; do outro, as tabas, a areia, a fogueira e a lua cheia nascendo do mar. É o lado claro do EP. *(Aldeia e beira-mar decididas em 29/09/2026.)*
 
 **Tema:** o menino que puxava a corda do sino **e** dormia em volta da fogueira na ocara. A referência diz que *"só não encontra lá o menino / que um dia foi feliz"*; o *Primeiro Ato* lembra *"como era entre as tabas"*. **Esta faixa é esse "como era", encenado no presente**: a única vez no universo em que Loupi não está sozinho.
 
