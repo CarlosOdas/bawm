@@ -1,6 +1,6 @@
 # Briefing de faixa — BAWM
 
-**Faixa (nome de trabalho):** Loupi Menino
+**Faixa:** Loupi Menino (título decidido em 29/09/2026)
 **EP:** *Sozinho em Procissão* — faixa 1 de 5 · **próximo single (27/11/2026)**
 **Aberto em:** 29/09/2026
 **Estado:** ☒ aberto ☐ fechado
