@@ -21,7 +21,7 @@
 
 **Tema:** o menino que puxava a corda do sino **e** dormia em volta da fogueira na ocara. A referência diz que *"só não encontra lá o menino / que um dia foi feliz"*; o *Primeiro Ato* lembra *"como era entre as tabas"*. **Esta faixa é esse "como era", encenado no presente**: a única vez no universo em que Loupi não está sozinho.
 
-**Clarinda** (decisão do autor, 29/09/2026): o nome entra nesta faixa, com o jogo *clara, clarinha, clara estrela, estrela linda, Clarinda*. É homenagem à mãe do Carlos. Quem ela é na vida de Loupi é a primeira decisão da oficina. Ver [`../canone/banco-de-versos.md`](../canone/banco-de-versos.md).
+**Clarinda** (decisão do autor, 29/09/2026): o nome entra nesta faixa, com o jogo *clara, clarinha, clara estrela, estrela linda, Clarinda*. É homenagem à mãe do Carlos. ✅ **Clarinda é a mãe de Loupi** (decidido em 29/09/2026). É a pessoa mais próxima que ele terá de deixar para protegê-la, e a ausência que *Passado Não Tem Endereço* já deixa implícita. Ver [`../canone/banco-de-versos.md`](../canone/banco-de-versos.md).
 
 **Origem da maldição** (decidido): veio com a missão. O menino ainda não a carrega, ou ainda não sabe que carrega. Nesta faixa, o sino que ele toca e a coisa que vai amaldiçoá-lo chegaram juntos.
 
