@@ -32,6 +32,10 @@
 
 **Rascunhos** — onde estão os arquivos, com data de modificação preservada. A cadeia de rascunhos é a prova mais forte que existe:
 
+| Versão | Data | Onde | Observação |
+|---|---|---|---|
+| v1 | 29/09/2026 | `rascunhos/v1-2026-09-29.md` | 8 linhas, escritas pelo Carlos. Guarde também o original, se foi escrito à mão ou em outro arquivo |
+
 **Decisões** — o que mudou entre a primeira versão e a final, e por quê (2 ou 3 linhas):
 
 **Modo de assistência usado:**
