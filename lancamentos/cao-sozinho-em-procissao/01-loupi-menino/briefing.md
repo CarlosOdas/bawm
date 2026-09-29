@@ -17,11 +17,13 @@
 
 ## 2. A tese desta faixa
 
-**Geografia sonora:** a aldeia abaixo da serra no tempo em que a missão e a ocara ainda convivem. A igreja com sino fica de um lado; do outro, as tabas, a fogueira e a lua cheia. É o lado claro do EP. *(Depende da decisão pendente no README: "a cidade cresceu em cima da aldeia". Se ela for recusada, a geografia volta a ser a cidade barroca com largo da matriz.)*
+**Geografia sonora:** a aldeia abaixo da serra no tempo em que a missão e a ocara ainda convivem. A igreja com sino fica de um lado; do outro, as tabas, a fogueira e a lua cheia. É o lado claro do EP. *(Leitura da aldeia decidida em 29/09/2026.)*
 
 **Tema:** o menino que puxava a corda do sino **e** dormia em volta da fogueira na ocara. A referência diz que *"só não encontra lá o menino / que um dia foi feliz"*; o *Primeiro Ato* lembra *"como era entre as tabas"*. **Esta faixa é esse "como era", encenado no presente**: a única vez no universo em que Loupi não está sozinho.
 
 **A pessoa:** Loupi com uns dez anos. O que ele quer é ser quem toca o sino: dar voz à cidade inteira com o peso do próprio corpo pendurado numa corda. O que o impede é ser pequeno demais, ainda. Ou então ele já consegue, e isso é tudo o que precisa saber da vida.
+
+**O mito nesta faixa:** **a última lua inocente.** O menino ama a lua cheia sem saber o que ela vai fazer com ele; quem ouve o EP já sabe. Ironia trágica, sem nenhum verso explicando. Ver [`../canone/loup-garou.md`](../canone/loup-garou.md).
 
 **A travessia:** do chão para o alto da torre, e do silêncio para o som. Também é a primeira volta do terço: o sino chamando para a procissão que, adulto, ele vai fazer sozinho.
 

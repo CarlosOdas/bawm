@@ -19,9 +19,11 @@
 
 **Geografia sonora:** o interior da casa mineira. Salão de assoalho de tábua, janela de madeira para a rua, a mesma rua da praça. É a faixa mais íntima do EP: bossa de câmara, quase música de sala.
 
-**Tema:** **a mesma tarde da faixa 3, vista de dentro do portão.** A referência diz *"a casa tem outra pintura / outras vozes no salão"*. Esta faixa dá voz a uma dessas vozes.
+**Tema:** **a mesma noite da faixa 3, vista de dentro do portão.** A letra da faixa 3 não fixa a hora; o mito fixa: a visita é de noite, de lua. A referência diz *"a casa tem outra pintura / outras vozes no salão"*. Esta faixa dá voz a uma dessas vozes.
 
 **A pessoa:** a mulher que mora hoje na casa onde Loupi nasceu. **Ela precisa de nome.** O Caô canta gente nomeada, e o nome dela pode ir para o título final. Ela ouve o portão ranger e vê pela janela um velho de chapéu na mão com uma chave que quase serve. O que ela quer, e se abre ou não abre, é decisão do letrista. Esse é o centro da faixa.
+
+**O mito nesta faixa:** **quem é protegida.** A noite em que o portão range é de lua. Ela sente perigo do outro lado e **não sabe que quem estava ali foi quem a poupou**, indo embora. Ver [`../canone/loup-garou.md`](../canone/loup-garou.md).
 
 **A travessia:** de desconfiança para reconhecimento. Ela entende que a casa dela também é casa de outro. E o portão, que na faixa 3 é fronteira de Loupi, aqui é fronteira dela.
 

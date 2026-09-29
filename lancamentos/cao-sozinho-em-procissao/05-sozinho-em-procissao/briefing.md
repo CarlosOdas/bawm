@@ -25,6 +25,8 @@ Em festas mineiras de cortejo existem também guardas de **caboclinhos**, que en
 
 **A pessoa:** Loupi, na última imagem que o EP dá dele. O que ele quer é ir embora em paz. O que o impede, ou o acompanha, é o som da festa que sobe a serra atrás dele.
 
+**O mito nesta faixa:** **correr o fado.** O circuito solitário do lobisomem, que precisa voltar antes do galo cantar, vira a procissão dele. Ele mantém a distância que protege a festa lá embaixo. O Mi maior é a aceitação: a maldição vivida como forma de amor. Ver [`../canone/loup-garou.md`](../canone/loup-garou.md).
+
 **A travessia:** de sozinho para acompanhado, sem deixar de estar sozinho. A procissão da cidade e a dele acabam sendo a mesma. É também a travessia do **disco**: Mi menor para **Mi maior**.
 
 **Imagem única (sugestão):** **as curvas da serra como contas de um terço**, passando entre os dedos, subindo. O tambor da festa chegando atrasado a cada curva, como um eco.

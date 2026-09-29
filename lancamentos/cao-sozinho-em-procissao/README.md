@@ -10,6 +10,8 @@
 
 ## 1. A decisão
 
+> **A essência de Loupi** (definição do autor, 29/09/2026): *Loupi Garoupi* é o aportuguesamento de ***loup-garou***, o lobisomem da tradição francesa. **Loupi é aquele que se isola para proteger os outros da própria maldição.** Essa lenda orienta o universo e a estética do EP inteiro. Bíblia do mito, releitura das letras e regras estéticas: [`canone/loup-garou.md`](canone/loup-garou.md). **Leia antes de qualquer outra coisa deste arquivo.**
+
 O próximo EP do Caô volta ao universo de *Contas Para Um Colar* e se fixa numa pessoa só: Loupi Garoupi. *Passado Não Tem Endereço* é a faixa-matriz. As outras quatro não repetem essa faixa: cada uma mostra um lado de Loupi que ela deixa de fora.
 
 O título sai de um verso da própria referência: *"E conta as curvas feito um terço / Sozinho em procissão"*. **O terço é um colar de contas.** É por aí que o EP se liga a *Contas Para Um Colar*, e ninguém precisa explicar: Loupi reza a estrada da serra conta por conta.
@@ -46,7 +48,7 @@ A referência põe o berço de Loupi numa **cidade** com praça, chafariz, sino 
 
 Com isso, o Afro-Barroco do Caô ganha no EP a terceira raiz que o termo já pressupõe, a indígena, sem inventar nada que as duas letras não sustentem.
 
-> ⚠️ **Decisão pendente do Carlos:** aceitar ou não a leitura "a cidade cresceu em cima da aldeia". Ela muda a faixa 1 por inteiro. Sem essa decisão, *Loupi Menino* não entra na oficina.
+> ✅ **Decidido pelo Carlos em 29/09/2026:** a cidade cresceu em cima da aldeia. É cânone.
 
 **Motivos herdados do *Primeiro Ato*, que passam a valer para o EP:** a **lua cheia**, a **água que devolve o reflexo** (a única companhia dele) e **o mar temido**.
 
@@ -93,12 +95,12 @@ Um Loupi por faixa, em ordem cronológica. Cada faixa é **liderada por um integ
 | 1 | **Loupi Menino** | infância, o sino | a cidade lembra dele | **Lia** (voz: Glória) | Sol maior · ~108 | 2:40–3:10 |
 | 2 | **O Outro Lado da Serra** | os anos longe: a vida que a partida deu | Loupi adulto | **Guilherme** | Si menor · ~112, balanço | 3:00–3:30 |
 | 3 | **Passado Não Tem Endereço** ✅ | a volta | Loupi velho | **Bento** | Mi menor · ~97 | 4:50 (feita) |
-| 4 | **Outras Vozes no Salão** | a mesma tarde, do outro lado do portão | a mulher que mora hoje na casa | **Glória** | Lá menor · ~84, bossa lenta | 3:00–3:20 |
+| 4 | **Outras Vozes no Salão** | a mesma noite, do outro lado do portão | a mulher que mora hoje na casa | **Glória** | Lá menor · ~84, bossa lenta | 3:00–3:20 |
 | 5 | **Sozinho em Procissão** (faixa-título) | a subida, e o que fica | Loupi, e o cortejo | **Helena** (+ Bento, coro) | **Mi maior** · crescendo de congado | 3:40–4:20 |
 
 **Por que esta ordem.**
 - **Tonalidades:** as quatro giram em volta do Mi menor da referência: relativa maior (1), dominante (2), subdominante (4) e, na faixa 5, Mi **maior**. O EP abre em luz, escurece até a volta e só resolve no fim.
-- **Contraste:** a 1 e a 5 são as únicas faixas claras. A 3 e a 4 contam a mesma tarde de dois lados do portão, e esse é o miolo do EP.
+- **Contraste:** a 1 e a 5 são as únicas faixas claras. A 3 e a 4 contam a mesma noite de dois lados do portão, e esse é o miolo do EP.
 - **Leads:** cada integrante lidera uma faixa, nenhum repete.
 
 > ⚠️ Tom e BPM aqui são **intenção de arranjo**, não instrução ao Suno. Tonalidade e andamento no Suno são orientação probabilística (**consenso**). Quem garante o contraste é o arranjo; se as gerações colarem todas em Mi menor, o arranjo não segurou.

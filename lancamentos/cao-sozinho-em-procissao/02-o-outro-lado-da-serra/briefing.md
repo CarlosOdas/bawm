@@ -26,6 +26,8 @@
 
 **A pessoa:** Loupi adulto, estabelecido do outro lado. Conseguiu o que queria, ou parte. O que o impede de ficar inteiro ali é uma **chave que não abre nenhuma porta da cidade onde mora**. Ele a guarda, e não sabe explicar por quê.
 
+**O mito nesta faixa:** **a tentativa.** Ele tentou viver entre gente, e a lua não deixou. É isto que explica por que ele volta sozinho: não é que não encontrou amigos, é que **teve de deixá-los para protegê-los**. Ver [`../canone/loup-garou.md`](../canone/loup-garou.md).
+
 **A travessia:** interna. De "fui embora" para "nunca saí de lá". A faixa termina com a decisão de descer a serra, que é exatamente onde a faixa 3 começa (*"Loupi Garoupi desce a serra"*).
 
 **Imagem única (sugestão, o letrista decide):** **a lua cheia vista sobre o mar**, na mesma cidade que ele temia; é a lua do *Primeiro Ato*, noutro lugar. Ou **a chave numa gaveta**, no meio de coisas que abrem portas de verdade. Ou a água: no *Primeiro Ato* ela devolvia a imagem dele, e o mar não devolve nada.
