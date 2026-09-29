@@ -21,6 +21,10 @@
 
 **Tema:** o menino que puxava a corda do sino **e** dormia em volta da fogueira na ocara. A referência diz que *"só não encontra lá o menino / que um dia foi feliz"*; o *Primeiro Ato* lembra *"como era entre as tabas"*. **Esta faixa é esse "como era", encenado no presente**: a única vez no universo em que Loupi não está sozinho.
 
+**Clarinda** (decisão do autor, 29/09/2026): o nome entra nesta faixa, com o jogo *clara, clarinha, clara estrela, estrela linda, Clarinda*. É homenagem à mãe do Carlos. Quem ela é na vida de Loupi é a primeira decisão da oficina. Ver [`../canone/banco-de-versos.md`](../canone/banco-de-versos.md).
+
+**Origem da maldição** (decidido): veio com a missão. O menino ainda não a carrega, ou ainda não sabe que carrega. Nesta faixa, o sino que ele toca e a coisa que vai amaldiçoá-lo chegaram juntos.
+
 **A pessoa:** Loupi com uns dez anos. O que ele quer é ser quem toca o sino: dar voz à cidade inteira com o peso do próprio corpo pendurado numa corda. O que o impede é ser pequeno demais, ainda. Ou então ele já consegue, e isso é tudo o que precisa saber da vida.
 
 **O mito nesta faixa:** **a última lua inocente.** O menino ama a lua cheia sem saber o que ela vai fazer com ele; quem ouve o EP já sabe. Ironia trágica, sem nenhum verso explicando. Ver [`../canone/loup-garou.md`](../canone/loup-garou.md).

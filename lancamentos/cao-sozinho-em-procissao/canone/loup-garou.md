@@ -24,7 +24,7 @@ Material de trabalho, com o grau de certeza de cada item. A lenda tem muitas var
 | A **lua cheia** como gatilho | tradição popular moderna, reforçada pelo cinema | **consenso**. Nas lendas antigas é mais "certas noites" que "lua cheia" |
 | Berry, no centro da França: *meneux de loups* e homens-lobo em George Sand, *Légendes rustiques* (1858, domínio público) | francesa | **anedótico** sem conferir. Consta que o livro tem um capítulo chamado *Les Lupins*; se tiver, é parente direto do nome "Lupi" |
 
-**A ponte com o Brasil:** o lobisomem chegou ao país com o colonizador, como o sino, a missão e a procissão. Na leitura da aldeia já aceita (a cidade cresceu em cima da aldeia), a maldição de Loupi é da mesma família do sino que ele tocava: veio de fora e se instalou por cima do menino da ocara. **Proposta, não cânone.** Ver a pergunta da oficina de *Loupi Menino*.
+**A ponte com o Brasil:** o lobisomem chegou ao país com o colonizador, como o sino, a missão e a procissão. Na leitura da aldeia já aceita (a cidade cresceu em cima da aldeia), a maldição de Loupi é da mesma família do sino que ele tocava: veio de fora e se instalou por cima do menino da ocara. ✅ **Cânone por decisão do Carlos em 29/09/2026: a maldição veio com a missão.** Veio de fora, junto com o sino, a igreja e a procissão, e caiu sobre o menino da ocara. Na tradição francesa, a maldição nasce de uma falta religiosa. Aqui, a falta não é dele: **ele herda a culpa de uma religião que chegou depois dele.** Isso dá peso duplo a *"sozinho em procissão"*: ele cumpre sozinho um rito que não era o da sua gente.
 
 ## Releitura do que já existe
 

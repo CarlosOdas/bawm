@@ -49,6 +49,10 @@ A referência põe o berço de Loupi numa **cidade** com praça, chafariz, sino 
 Com isso, o Afro-Barroco do Caô ganha no EP a terceira raiz que o termo já pressupõe, a indígena, sem inventar nada que as duas letras não sustentem.
 
 > ✅ **Decidido pelo Carlos em 29/09/2026:** a cidade cresceu em cima da aldeia. É cânone.
+>
+> ✅ **Decidido pelo Carlos em 29/09/2026:** a maldição de Loupi **veio com a missão** (ver [`canone/loup-garou.md`](canone/loup-garou.md)).
+>
+> 📌 **Material do autor para o EP**, em [`canone/banco-de-versos.md`](canone/banco-de-versos.md): o verso **"velhas aldeias do amor"**, que precisa aparecer em algum ponto do EP, e o nome **Clarinda**, homenagem à mãe do Carlos.
 
 **Motivos herdados do *Primeiro Ato*, que passam a valer para o EP:** a **lua cheia**, a **água que devolve o reflexo** (a única companhia dele) e **o mar temido**.
 

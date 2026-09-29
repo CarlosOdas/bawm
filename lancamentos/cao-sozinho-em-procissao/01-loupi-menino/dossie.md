@@ -41,6 +41,10 @@
 
 Se houve coautoria, **quais linhas** e de quem partiram:
 
+**Material do autor anterior ao rascunho:**
+- 29/09/2026 — nome **Clarinda** e o jogo *clara, clarinha, clara estrela, estrela linda, Clarinda*, propostos pelo Carlos na conversa de direção. Clarinda era o nome da mãe dele: é homenagem.
+- 29/09/2026 — origem da maldição decidida pelo Carlos: veio com a missão.
+
 **Fontes e referências** — verso que cita, adapta ou responde a domínio público:
 
 ## 2. Componente de IA
