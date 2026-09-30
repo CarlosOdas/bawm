@@ -32,6 +32,7 @@ Material de trabalho, com o grau de certeza de cada item. A lenda tem muitas var
 |---|---|---|
 | **Loupi Garoupi** | o menino da ocara que herda a maldição trazida pela missão, e se isola para proteger os outros | 29/09/2026 |
 | **Clarinda** | **a mãe de Loupi.** Homenagem à mãe do Carlos | 29/09/2026 |
+| **Graça** | a mulher que mora hoje na casa onde Loupi nasceu (*Outras Vozes no Salão*). Foi poupada sem saber | 30/09/2026 |
 
 ## Releitura do que já existe
 

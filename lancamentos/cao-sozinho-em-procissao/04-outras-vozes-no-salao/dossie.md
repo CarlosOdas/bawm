@@ -39,7 +39,7 @@
 - ☐ Provocação (imagens, campo semântico, perguntas) — autoria 100% humana
 - ☒ **Coautoria assistida** — autoria **mista**. Não registre como obra puramente humana
 
-Se houve coautoria, **quais linhas** e de quem partiram: tabela verso a verso em [`letra.md`](letra.md#autoria-verso-a-verso). v1 proposta pelo assistente em 30/09/2026, pendente de aceite do Carlos.
+Se houve coautoria, **quais linhas** e de quem partiram: tabela verso a verso em [`letra.md`](letra.md#autoria-verso-a-verso). v1 proposta pelo assistente em 30/09/2026 (guardada em `rascunhos/`). Nome Graça e título decididos pelo Carlos em 30/09/2026. **v2** reescrita a pedido dele para quebrar o espelho com as faixas 1 e 2, pendente de aceite.
 
 **Fontes e referências** — verso que cita, adapta ou responde a domínio público:
 
@@ -53,24 +53,24 @@ Se houve coautoria, **quais linhas** e de quem partiram: tabela verso a verso em
 
 > ⚠️ A cessão do Suno **não é retroativa**: é preciso estar assinante no instante da geração. Registre a data.
 
-**Bloco Styles — exato, como foi colado:**
+**Bloco Styles — exato, como foi colado:** *(pacote v1 de 30/09/2026, em [`suno-v1.md`](suno-v1.md); confirme aqui se foi colado sem mudança)*
 ```
-
+Afro-Barroco brasileiro de sotaque nativo sobre base de MPB de câmara, voz leve e sofisticada à maneira da bossa, nylon à frente, violão de nylon, cello, percussão de mão, gravação ritual acústica e próxima em wide stereo, valsa noturna com piano de armário desafinado
 ```
 
 **Exclude styles — exato:**
 ```
-
+autotune, electronic drums, 808, distorted guitar, synth lead
 ```
 
 | | |
 |---|---|
-| Weirdness | |
-| Style Influence | |
+| Weirdness | 45 |
+| Style Influence | 70 |
 | Audio Influence (se houve áudio anexado) | |
-| Vocal Gender | ☐ Male ☐ Female |
+| Vocal Gender | ☐ Male ☒ Female |
 
-**Mapa da faixa** (de `bawm-arranjador`) — quem toca em cada seção:
+**Mapa da faixa** (de `bawm-arranjador`) — quem toca em cada seção: ver [`suno-v1.md`](suno-v1.md#1-mapa-da-faixa).
 
 **Gerações:**
 

@@ -101,7 +101,7 @@ Um Loupi por faixa, em ordem cronológica. Cada faixa é **liderada por um integ
 | 1 | **Loupi Menino** | infância, o sino | a cidade lembra dele | **Lia** (voz: Glória) | Sol maior · ~108 | 2:40–3:10 |
 | 2 | **O Outro Lado da Serra** | os anos longe, em Minas, serra acima | Loupi adulto | **Guilherme** | Si menor · ~112, toada de serra | 3:00–3:30 |
 | 3 | **Passado Não Tem Endereço** ✅ | a volta | Loupi velho | **Bento** | Mi menor · ~97 | 4:50 (feita) |
-| 4 | **Outras Vozes no Salão** | a mesma noite, do outro lado do portão | a mulher que mora hoje na casa | **Glória** | Lá menor · ~84, bossa lenta | 3:00–3:20 |
+| 4 | **Outras Vozes no Salão** | a mesma noite, do outro lado do portão | a mulher que mora hoje na casa | **Glória** | Lá menor · **valsa lenta**, piano desafinado | 3:00–3:20 |
 | 5 | **Sozinho em Procissão** (faixa-título) | a subida, e o que fica | Loupi, e o cortejo | **Helena** (+ Bento, coro) | **Mi maior** · crescendo de cortejo | 3:40–4:20 |
 
 **Por que esta ordem.**

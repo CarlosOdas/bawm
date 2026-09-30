@@ -1,6 +1,6 @@
 # Briefing de faixa — BAWM
 
-**Faixa (nome de trabalho):** Outras Vozes no Salão
+**Faixa:** Outras Vozes no Salão (título decidido em 30/09/2026)
 **EP:** *Sozinho em Procissão* — faixa 4 de 5
 **Aberto em:** 29/09/2026
 **Estado:** ☒ aberto ☐ fechado
@@ -21,7 +21,7 @@
 
 **Tema:** **a mesma noite da faixa 3, vista de dentro do portão.** A letra da faixa 3 não fixa a hora; o mito fixa: a visita é de noite, de lua. A referência diz *"a casa tem outra pintura / outras vozes no salão"*. Esta faixa dá voz a uma dessas vozes.
 
-**A pessoa:** a mulher que mora hoje na casa onde Loupi nasceu. **Ela precisa de nome.** O Caô canta gente nomeada, e o nome dela pode ir para o título final. Ela ouve o portão ranger e vê pela janela um velho de chapéu na mão com uma chave que quase serve. O que ela quer, e se abre ou não abre, é decisão do letrista. Esse é o centro da faixa.
+**A pessoa:** **Graça** (decidido em 30/09/2026), a mulher que mora hoje na casa onde Loupi nasceu. O Caô canta gente nomeada, e o nome dela pode ir para o título final. Ela ouve o portão ranger e vê pela janela um velho de chapéu na mão com uma chave que quase serve. O que ela quer, e se abre ou não abre, é decisão do letrista. Esse é o centro da faixa.
 
 **O mito nesta faixa:** **quem é protegida.** A noite em que o portão range é de lua. Ela sente perigo do outro lado e **não sabe que quem estava ali foi quem a poupou**, indo embora. Ver [`../canone/loup-garou.md`](../canone/loup-garou.md).
 
@@ -40,7 +40,7 @@
 ## 4. Restrições — o que esta faixa NÃO é
 
 - **Não é sobre Loupi.** É sobre ela, e ele passa pela faixa. Se a letra virar "coitado do velho", falhou.
-- **Não tem voz do Bento.** Nem falada. A voz de Loupi não entra na casa, e isso é o sentido da faixa.
+- **Não tem voz do Bento dentro da casa.** A voz de Loupi não entra, e isso é o sentido da faixa. A única exceção (v2, 30/09/2026) é *"alguma coisa canta sem ter voz de gente"*, às três horas: se o arranjo quiser, um **murmúrio grave, sem palavras, muito distante**, lá na serra. É o outro Loupi, e continua do lado de fora.
 - **Não resolve a cena com abraço.** A referência fecha com ele *subindo de volta com a chave na mão*: ela não o deixou ficar, ou ele não quis. Esta faixa não pode contradizer isso.
 - **Não abre com drone.** Abre com o nylon da Glória, como alguém em casa tocando sozinha.
 
@@ -50,10 +50,10 @@
 
 | | |
 |---|---|
-| Tom · pulso (intenção) | Lá menor · ~84 BPM, bossa lenta |
+| Tom · pulso (intenção) | Lá menor · **valsa lenta (3/4)**, ~76. Revisto em 30/09/2026 para quebrar o espelho entre as faixas 1 e 2 |
 | Lidera | Glória: voz leve, nylon à frente |
-| Função dos outros | Helena com cello nu, na ponte · Lia com flauta distante, a rua lá fora · Guilherme no coro das "outras vozes" (a família dela), em parênteses |
-| Assinatura do EP | Mellotron quando o portão range, uma vez só (`[Bridge - mellotron, cello only]`) · eco em parênteses: as vozes da casa |
+| Função dos outros | Piano de armário levemente desafinado, o piano da casa · Helena com harmônicos de cello na hora da lua · Lia só no sino das seis · Guilherme e o grupo nas vozes da família, entre parênteses, de longe |
+| Assinatura do EP | Mellotron uma vez, na *Uma hora* (a lua cheia) · eco em parênteses: as vozes da casa |
 
 **Styles montado (7 descritores):**
 ```
@@ -61,9 +61,9 @@ Afro-Barroco brasileiro de sotaque nativo sobre base de MPB de câmara,
 voz leve e sofisticada à maneira da bossa, nylon à frente,
 violão de nylon, cello, percussão de mão,
 gravação ritual acústica e próxima em wide stereo,
-intimista e noturno
+valsa noturna com piano de armário desafinado
 ```
-Vocal Gender: **Female** · Sliders **30 / 80** (câmara mais nua) · Exclude: o do Caô.
+Vocal Gender: **Female** · Sliders **45 / 70** (um pouco de estranheza, revisto em 30/09/2026) · Exclude: o do Caô.
 
 **Nome no Suno:** grafia fonética **Lupi Garupi** na caixa Lyrics; **Loupi Garoupi** em todo o resto (ver README do EP).
 
