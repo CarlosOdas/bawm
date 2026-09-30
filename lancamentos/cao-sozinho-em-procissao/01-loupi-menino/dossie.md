@@ -65,24 +65,24 @@ Tabela verso a verso em [`letra.md`](letra.md#autoria-verso-a-verso). Resumo: re
 
 > ⚠️ A cessão do Suno **não é retroativa**: é preciso estar assinante no instante da geração. Registre a data.
 
-**Bloco Styles — exato, como foi colado:**
+**Bloco Styles — exato, como foi colado:** *(pacote v1 de 30/09/2026, em [`suno-v1.md`](suno-v1.md); confirme aqui se foi colado sem mudança)*
 ```
-
+Afro-Barroco brasileiro de sotaque nativo sobre base de MPB de câmara, flauta e textura arejada de indie folk global, violão de nylon, cello, percussão de mão, gravação ritual acústica e próxima em wide stereo, luminoso e saltitante
 ```
 
 **Exclude styles — exato:**
 ```
-
+autotune, electronic drums, 808, distorted guitar, synth lead
 ```
 
 | | |
 |---|---|
-| Weirdness | |
-| Style Influence | |
+| Weirdness | 35 |
+| Style Influence | 75 |
 | Audio Influence (se houve áudio anexado) | |
-| Vocal Gender | ☐ Male ☐ Female |
+| Vocal Gender | ☐ Male ☒ Female |
 
-**Mapa da faixa** (de `bawm-arranjador`) — quem toca em cada seção:
+**Mapa da faixa** (de `bawm-arranjador`) — quem toca em cada seção: ver [`suno-v1.md`](suno-v1.md#1-mapa-da-faixa).
 
 **Gerações:**
 
