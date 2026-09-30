@@ -1,6 +1,6 @@
 # Briefing de faixa — BAWM
 
-**Faixa (nome de trabalho):** O Outro Lado da Serra
+**Faixa:** O Outro Lado da Serra (título decidido em 30/09/2026)
 **EP:** *Sozinho em Procissão* — faixa 2 de 5
 **Aberto em:** 29/09/2026 · **revisto em 29/09/2026**: substitui *Última Estação* (a partida), que ficava perto demais de *"Loupi Garoupi Tem Vontade de Partir"*, do *Primeiro Ato*
 **Estado:** ☒ aberto ☐ fechado

@@ -1,6 +1,6 @@
-# O Outro Lado da Serra — letra v1 (proposta)
+# O Outro Lado da Serra — letra v1
 
-> 30/09/2026 · **coautoria assistida**, no regime autorizado pelo Carlos em 29/09/2026.
+> 30/09/2026 · **aprovada pelo Carlos em 30/09/2026** (verso reservado mantido aqui, sem amigo nomeado, título mantido) · **coautoria assistida**, no regime autorizado pelo Carlos em 29/09/2026.
 > Proposta do assistente sobre o briefing e o cânone, costurada com versos do Carlos: o reservado *"velhas aldeias do amor"*, uma linha do *Primeiro Ato* e o jogo de *Loupi Menino*.
 > Letra **limpa, sem tags**. Primeira pessoa: é a voz de Loupi, a mesma do *Primeiro Ato*, cantada pelo Guilherme.
 
@@ -51,7 +51,7 @@ Chapéu e chave na mão
 
 ## Autoria, verso a verso
 
-**C** = Carlos · **C\*** = Carlos, com ajuste · **IA** = proposta do assistente, **pendente de aceite**
+**C** = Carlos · **C\*** = Carlos, com ajuste · **IA** = proposto pelo assistente e aceito pelo Carlos
 
 | Trecho | Autoria |
 |---|---|
