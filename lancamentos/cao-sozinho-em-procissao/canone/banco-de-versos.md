@@ -5,7 +5,7 @@
 
 | Data | Material | Origem | Destino | Usado em |
 |---|---|---|---|---|
-| 29/09/2026 | **"velhas aldeias do amor"** | verso do Carlos, dado na conversa de direção | **deve aparecer em algum ponto do EP** (decisão do autor) | *pendente* |
+| 29/09/2026 | **"velhas aldeias do amor"** | verso do Carlos, dado na conversa de direção | **deve aparecer em algum ponto do EP** (decisão do autor) | proposto no refrão de *O Outro Lado da Serra* (v1, 30/09/2026) como *"Das velhas aldeias do amor"*, **pendente de aceite** |
 | 29/09/2026 | **Clarinda** — e o jogo *clara, clarinha, clara estrela, estrela linda, Clarinda* | nome da mãe do Carlos. Homenagem. Ele nunca conheceu outra pessoa com esse nome | *Loupi Menino* (faixa 1) · **Clarinda é a mãe de Loupi** (decidido em 29/09/2026) | *em oficina* |
 
 ## "velhas aldeias do amor" — onde pode morar
