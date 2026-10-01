@@ -66,9 +66,9 @@ Afro-Barroco brasileiro de sotaque nativo sobre base de MPB de câmara,
 violino chorado e cordas em primeiro plano,
 violão de nylon, cello, percussão de mão,
 gravação ritual acústica e próxima em wide stereo,
-cortejo ritual noturno em crescendo
+suíte cinematográfica com longos interlúdios instrumentais
 ```
-Vocal Gender: **Male** · Sliders 35 / 75 · Exclude: o do Caô.
+Vocal Gender: **Male** · Sliders **40 / 70** · Exclude: o do Caô. **Duração: ~7 min**, grand finale cinematográfico (pedido do Carlos em 01/10/2026).
 
 **Nome no Suno:** grafia fonética **Lupi Garupi** na caixa Lyrics; **Loupi Garoupi** em todo o resto (ver README do EP).
 
