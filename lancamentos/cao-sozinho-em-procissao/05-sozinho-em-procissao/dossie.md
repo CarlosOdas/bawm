@@ -72,6 +72,8 @@ autotune, electronic drums, 808, distorted guitar, synth lead
 
 **Mapa da faixa** (de `bawm-arranjador`) — quem toca em cada seção: ver [`suno-v1.md`](suno-v1.md#1-mapa-da-faixa). Se gerada em partes (caminho B), registre o ID de cada parte e cada Extend.
 
+**02/10/2026:** pacote substituído pelo **v2** ([`suno-v2.md`](suno-v2.md)): quatro partes com Extend, mínimo de 9 min, hipnótico e com som de nave de capela. O sétimo descritor do Styles muda a cada parte; registre aqui o Styles exato de cada uma e o ponto (minuto:segundo) de onde cada Extend partiu.
+
 **Gerações:**
 
 | # | Ficou com o quê | Descartada por quê |

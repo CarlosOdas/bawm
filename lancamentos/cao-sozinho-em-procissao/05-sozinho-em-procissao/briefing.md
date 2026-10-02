@@ -68,7 +68,7 @@ violão de nylon, cello, percussão de mão,
 gravação ritual acústica e próxima em wide stereo,
 suíte cinematográfica com longos interlúdios instrumentais
 ```
-Vocal Gender: **Male** · Sliders **40 / 70** · Exclude: o do Caô. **Duração: ~7 min**, grand finale cinematográfico (pedido do Carlos em 01/10/2026).
+Vocal Gender: **Male** · Sliders **40 / 70** · Exclude: o do Caô. **Duração: no mínimo 9 min**, grand finale hipnótico em quatro partes com Extend (pedido do Carlos em 02/10/2026; ver `suno-v2.md`).
 
 **Nome no Suno:** grafia fonética **Lupi Garupi** na caixa Lyrics; **Loupi Garoupi** em todo o resto (ver README do EP).
 

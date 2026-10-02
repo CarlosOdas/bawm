@@ -1,5 +1,7 @@
 # Sozinho em Procissão — pacote Suno v1
 
+> ⚠️ **Substituído pelo [v2](suno-v2.md) em 02/10/2026** (quatro partes, 9+ min). Mantido como histórico.
+
 > 01/10/2026 · `bawm-arranjador` sobre a letra v1 ([`letra.md`](letra.md)).
 > Faixa longa (~7 min) com instrumentais longos: ver **Como gerar** antes de gastar crédito.
 > ⚠️ Com Custom Model ou Style Persona do Caô, **não cole o Styles**.
