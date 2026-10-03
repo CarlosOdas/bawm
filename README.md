@@ -95,7 +95,12 @@ plugins/bawm/
   modelos/
     briefing-de-faixa.md
     dossie-de-faixa.md
+lancamentos/
+  <artista>-<release>/       briefing do release, e uma pasta por faixa
+                             com briefing.md e dossie.md
 ```
+
+`lancamentos/` fica fora do plugin: instalar o plugin não instala o catálogo. Os briefings e dossiês ficam no repo porque **o commit data cada etapa**, e é essa data que dá valor probatório ao dossiê.
 
 ## Convenções
 
