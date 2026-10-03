@@ -70,3 +70,15 @@ ENTREGAS
 - **Confira o rosto:** se a ferramenta desenhar um rosto visível, peça de novo com a figura mais de costas.
 - **Exporte** em 3000 × 3000 px, sRGB, JPG ou PNG, e registre no dossiê de cada faixa (portão de fechamento: *arte inédita no catálogo, 1:1, sem rosto fotorrealista de IA*).
 - **Capas dos singles** (*Passado Não Tem Endereço* e *Loupi Menino*) precisam ser **diferentes** desta. Uma sugestão para elas: recortes da mesma paisagem vistos de outro ponto (o portão com a chave; o menino no sino), na mesma linguagem visual.
+
+## Capa feita (03/10/2026)
+
+Em vez do Claude Design, a capa foi desenhada aqui, **em código** ([`capa.py`](capa.py)), sem nenhum modelo de geração de imagem: cada elemento é traçado à mão em Python (Pillow). Filosofia visual: [`filosofia-vigilia-entalhada.md`](filosofia-vigilia-entalhada.md).
+
+| Arquivo | Uso |
+|---|---|
+| [`capa-ep.jpg`](capa-ep.jpg) | Capa principal, sem texto. 3000 × 3000 px, RGB, JPG q95 |
+| [`capa-ep-titulo.jpg`](capa-ep-titulo.jpg) | Mesma capa com *Sozinho em Procissão* e *Caô* no céu |
+
+Conferido: 1:1 · 3000 px (dentro de 1500–6000) · sem rosto · sem URL, @ ou logo · legível em 300 px (homem com a lamparina, lua e cidade reconhecíveis).
+Para regerar: `python3 capa.py <pasta-de-fontes> saida.png [texto]` (fonte do título: Arsenal SC, OFL).
