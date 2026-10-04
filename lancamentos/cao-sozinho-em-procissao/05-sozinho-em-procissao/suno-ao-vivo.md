@@ -126,6 +126,17 @@ Sozinho em procissão
 
 [Applause, crowd cheering]
 
+[Crowd chanting - no music]
+(Caô! Caô! Caô! Caô!)
+(Caô! Caô! Caô! Caô!)
+(Caô! Caô! Caô! Caô!)
+
+[Spoken - warm, smiling]
+Obrigado!
+Muito obrigado!
+
+[Applause - fading]
+
 [End]
 ```
 
@@ -142,11 +153,21 @@ Sozinho em procissão
 
 Também corrigi um erro de digitação da sua caixa: *"Sozinho (em prossição)"* virou *"Sozinho (em procissão)"*. O Suno canta o que está escrito.
 
+## O fim: a plateia chama, o Bento agradece
+
+Pedido do Carlos (04/10/2026): o público aclamando em coro *Caô, Caô, Caô, Caô* e o Bento agradecendo.
+
+- **O coro do público vai entre parênteses** porque parêntese é cantado. `[Crowd chanting - no music]` pede que seja grito de plateia, sem a banda por baixo. Se sair cantado como coral afinado, troque a tag por `[Crowd shouting]`.
+- **Pronúncia.** O Suno pode ler *Caô* como "cáo". Se acontecer, escreva **Ca-ô** só na caixa Lyrics (a tônica no ô).
+- **O agradecimento** vai como `[Spoken - warm, smiling]`. Fala no Suno é **anedótica**: às vezes ele canta a frase. Se cantar, tente `[Spoken word]` ou gere só esse trecho de novo.
+- **Por que a fala não quebra a regra do EP.** A voz falada grave é reservada ao "outro" Loupi *dentro da história*. Aqui quem fala é o Bento músico, fora da história, depois que a música acabou. A entrega deve ser a dele: calorosa, sorrindo, na região média da voz, **nunca o grave sussurrado da faixa 3**.
+- **Gere o fim à parte.** Faça um **Extend a partir do aplauso final**, com a caixa Lyrics contendo só este trecho (do `[Applause, crowd cheering]` ao `[End]`). Assim você tenta quantas vezes quiser sem regerar 9 minutos de música.
+
 ## Cuidados
 
 - **Aplauso e plateia em excesso** viram efeito barato. Se o público aparecer demais, tire `[Applause - short]` e deixe só o murmúrio inicial e o aplauso final.
 - **O silêncio antes da flauta** é ainda mais forte ao vivo, porque o público também se cala. Se o Suno encher o silêncio com aplauso, corte no Audacity.
-- **Nada de fala.** Um "boa noite" do cantor seria o clichê do ao vivo, mas a voz falada grave é a do "outro" Loupi no EP. Não ponha fala na caixa.
+- **Fala só no fim.** Nenhum "boa noite" no começo nem entre as partes: a única fala é o agradecimento do Bento depois do coro *Caô*, fora da história (ver acima).
 
 ## Como lançar: atenção ao nome
 
