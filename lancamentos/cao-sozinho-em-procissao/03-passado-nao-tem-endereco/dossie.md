@@ -99,7 +99,11 @@ Montado a partir das tags da letra, porque a faixa foi gerada antes do pacote de
 
 **Stems extraídos** (se houve) — modo e quantos:
 
-**ID / nome do arquivo baixado:** `7a7c63c6-b128-4dbd-8a54-69a7846f4a21` · *Passado_Não_Tem_Endereço_Remastered.mp3* (MP3 VBR ~193 kbps, 48 kHz, 4:50). O arquivo traz manifesto **C2PA** embutido (proveniência de IA): guarde o original sem regravar tags.
+**ID / nome do arquivo baixado:**
+
+**versão do EP (registrada em 04/10/2026):** `cdbe6033-af2b-4f8a-9bb0-47b1a825b72b` · gerada em 04/10/2026 00:27 UTC (Remaster baixado 04/10 03:10 UTC) · 4:59 · download Suno medido: −15,0 LUFS, −2,1 dBTP · Mi menor (estimado) · ~96 BPM. WAV baixado pelo Carlos (guardar junto ao MP3, sem regravar tags: o arquivo traz manifesto C2PA).
+
+*Geração anterior, de referência (29/09/2026), substituída pela acima:* `7a7c63c6-b128-4dbd-8a54-69a7846f4a21` · *Passado_Não_Tem_Endereço_Remastered.mp3* (MP3 VBR ~193 kbps, 48 kHz, 4:50). O arquivo traz manifesto **C2PA** embutido (proveniência de IA): guarde o original sem regravar tags.
 
 ⚠️ **Baixe o WAV** da mesma geração para a montagem no Audacity. O MP3 é só referência de escuta.
 

@@ -131,19 +131,11 @@ Regra do EP: **toda faixa tem pelo menos uma tag de mellotron**, e **toda faixa 
 
 **Paleta.** O mellotron não está na paleta atual do Caô (nem em "nunca"). Fica registrado como **"às vezes" — EP *Sozinho em Procissão***. Se ele funcionar no EP inteiro, a bíblia em `bawm-artista` ganha a linha; até lá, é exceção documentada aqui.
 
-## 5. Plano de lançamento — proposta da direção
+## 5. Plano de lançamento
 
-A regra do selo é: singles até acumular, depois o EP. O EP sai **em cascata**, com dois singles antes, e não com as cinco faixas de uma vez.
+> ✅ **04/10/2026, decisão do Carlos: sem singles. O EP sai inteiro.** Lançamento proposto: **sexta, 13/11/2026**, com envio à LANDR em 16/10 (D−28). Tracklist, correções antes do master, metadados e calendário em [`lancamento-ep.md`](lancamento-ep.md).
 
-| Data (sexta) | Release | Por quê |
-|---|---|---|
-| **30/10/2026** | Single — *Passado Não Tem Endereço* | Já existe. 4+ semanas a partir de hoje ✓ · 10 semanas depois de *Stranger Samba* ✓ · o Caô está parado desde 27/06 |
-| **27/11/2026** | Single — *Loupi Menino* | O contraste: mostra que o EP não é um disco triste só |
-| **15/01/2027** | EP — *Sozinho em Procissão* (5 faixas) | **Um ano, quase no dia, depois do *Primeiro Ato*** (16/01/2026). O universo volta no próprio aniversário |
-
-Nos singles, o EP entra reaproveitando o **mesmo ISRC** de cada faixa já lançada (confira na interface da LANDR como vincular o ISRC existente, para não duplicar a gravação).
-
-**Prazos que isso impõe:** a letra de *Loupi Menino* fecha até **~20/10**, e o master sobe na LANDR até **~06/11**. As faixas 2, 4 e 5 fecham até **~18/12**. Entre 18/12 e 06/01 as lojas andam devagar; não conte com esse intervalo.
+*O plano anterior (singles em 30/10 e 27/11, EP em 15/01/2027) fica descartado.*
 
 ## 6. Pendências e alertas da direção
 

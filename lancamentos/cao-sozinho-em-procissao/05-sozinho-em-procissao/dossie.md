@@ -89,7 +89,7 @@ autotune, electronic drums, 808, distorted guitar, synth lead
 
 **Stems extraídos** (se houve) — modo e quantos:
 
-**ID / nome do arquivo baixado:**
+**ID / nome do arquivo baixado:** **versão do EP (registrada em 04/10/2026):** `bf344892-c341-4a6f-9904-d2af95183bab` · gerada em 04/10/2026 05:07 UTC (versão baixada 04/10 05:18 UTC) · 6:58 · download Suno medido: −15,1 LUFS, −3,1 dBTP · Mi menor/maior (estimado) · ~99 BPM. WAV baixado pelo Carlos (guardar junto ao MP3, sem regravar tags: o arquivo traz manifesto C2PA).
 
 ## 3. Montagem no Audacity
 
