@@ -1,25 +1,50 @@
-# Sozinho em Procissão — letra v1 (proposta)
+# Sozinho em Procissão — letra final
 
-> 01/10/2026 · **coautoria assistida**, no regime autorizado pelo Carlos em 29/09/2026.
+> 04/10/2026 · **versão final, editada pelo Carlos** sobre a v1 (a gravação de estúdio ficou com esta letra). Mudanças dele: *luzes brancas / São contas soltas sobre a água, / o berço*; *E o homem já de si se esquece / Sozinho em procissão*; o bloco coral de *Sozinho em procissão / Em procissão sozinho*; a repetição depois da Estação final.
+> 01/10/2026 · v1 em **coautoria assistida**, no regime autorizado pelo Carlos em 29/09/2026.
 > Pedido do Carlos: **grand finale**, longa, que respire, que conte a história **sem cantar a história**, com interlúdios e uma longa seção instrumental. *Cinema em forma de música.*
 > Por isso a letra é mínima: **12 versos** numa faixa de ~7 minutos. Quem conta é a música. Letra **limpa, sem tags**; a estrutura completa, com os instrumentais, está em [`suno-v1.md`](suno-v1.md).
 
 ```
 Primeira curva da serra
 Primeira conta do terço
-Lá embaixo, luzes no mar
-Contas soltas sobre a água
+Lá embaixo, luzes brancas
+São contas soltas sobre a água,
+o berço
 
 Na segunda, pesa a chave
 Que não abriu casa alguma
 Na terceira, a lua cresce
-E o homem esquece o nome
+E o homem já de si se esquece
+Sozinho em procissão
+
+Sozinho em procissão
+(Em procissão sozinho)
+Sozinho em procissão
+Sozinho em procissão
+(Em procissão sozinho)
+Sozinho em procissão
+(Em procissão sozinho)
+Sozinho
+Sozinho (em procissão)
+Sozinho
+Sozinho em procissão
 
 Clara estrela
 Estrela linda
 Última conta do terço
 A manhã me devolveu
+
+Sozinho em procissão
+Sozinho em procissão
+
 (Sozinho em procissão)
+(Em procissão sozinho)
+(Sozinho em procissão)
+(Sozinho em procissão)
+(Em procissão sozinho)
+(Sozinho em procissão)
+(Sozinho...)
 ```
 
 ## A história que a música conta
@@ -61,3 +86,4 @@ A mesma noite das faixas 3 e 4, agora do lado de Loupi, da subida até o amanhec
 | *Última conta do terço / A manhã me devolveu* | IA |
 | *(Sozinho em procissão)* | **C**: verso de *Passado Não Tem Endereço* |
 | Estrutura cinematográfica (prelúdio, interlúdios, fado, silêncio, coda) | IA, a pedido do Carlos |
+| Edições da versão final: *luzes brancas*, *São contas soltas sobre a água, / o berço*, *E o homem já de si se esquece*, *Sozinho em procissão* no fim da Estação II, todo o bloco coral com *Em procissão sozinho* e a repetição final | **C** (04/10/2026) |
