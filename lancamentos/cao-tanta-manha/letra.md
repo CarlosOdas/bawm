@@ -1,6 +1,7 @@
 # Tanta Manhã — letra v1
 
 > 05/11/2026 · **proposta do assistente**, feita a pedido do Carlos (*"faça algo digno de ser apresentado como uma inspiração e uma homenagem a Sapato Velho"*). Coautoria assistida: ver a tabela de autoria abaixo.
+> ✅ **Aprovada pelo Carlos, sem alteração, em 05/11/2026** (*"Gostei, vamos gerar no Suno"*).
 > Letra **limpa, sem tags**. As tags são trabalho de `bawm-arranjador`.
 > Grafia **oficial** (*estrela-d'alva*). Na caixa Lyrics do Suno, troque por *estrela dalva*.
 
@@ -58,7 +59,7 @@ Toma, enquanto tá quente
 
 ## Autoria, verso a verso
 
-**C** = Carlos · **IA** = proposto pelo assistente, **aguardando aceite do Carlos**
+**C** = Carlos · **IA** = proposto pelo assistente e aceito pelo Carlos em 05/11/2026
 
 | Trecho | Autoria |
 |---|---|

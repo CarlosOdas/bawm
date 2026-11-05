@@ -27,16 +27,18 @@
 | | |
 |---|---|
 | Quem escreveu a letra (nome completo) | **v1: proposta do assistente**, a pedido de Carlos Alberto Odas. Coautoria assistida (ver linhas abaixo) |
-| Quando (datas de início e fim) | v1 em 05/11/2026 · final: |
+| Quando (datas de início e fim) | v1 em 05/11/2026 · **final = v1, aprovada sem alteração em 05/11/2026** |
 | Onde (cidade) | |
 
 **Rascunhos** — onde estão os arquivos, com data de modificação preservada. A cadeia de rascunhos é a prova mais forte que existe:
 
 | Versão | Data | Onde | Observação |
 |---|---|---|---|
-| v1 | 05/11/2026 | `letra.md` (commit deste dia) | proposta integral do assistente. Quando o Carlos mexer, a v1 vai para `rascunhos/v1-2026-11-05.md` |
+| v1 | 05/11/2026 | `letra.md` (commit deste dia) | proposta integral do assistente, aprovada pelo Carlos no mesmo dia. Se ele mexer depois, a v1 vai para `rascunhos/v1-2026-11-05.md` |
 
 **Decisões** — o que mudou entre a primeira versão e a final, e por quê (2 ou 3 linhas):
+
+Nada mudou: o Carlos aprovou a v1 inteira em 05/11/2026, antes de qualquer geração. Um verso fica em aberto, para decidir de ouvido depois da primeira geração: *Café bom passa devagar* (risco de soar como slogan), com a alternativa *O que é bom passa devagar* (ver `letra.md`). Se a troca acontecer, registre aqui com a data.
 
 **Modo de assistência usado:**
 - ☐ Oficina (crítica, escansão, apontamento) — autoria 100% humana
