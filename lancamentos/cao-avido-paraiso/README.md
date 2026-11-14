@@ -18,6 +18,10 @@ Dado pelo Carlos em 14/11/2026, na conversa de direção. Transcrito como veio; 
 - **Instrumentos:** violão de sete cordas, pandeiro, cuíca, guitarra, baixo elétrico.
 - **Referências literárias e estéticas:** cinema novo; movimento antropofágico.
 
+Acrescentado pelo Carlos no mesmo dia, 14/11/2026, depois de ler os caminhos:
+
+- **Vozes:** Bento (barítono - Mateus Aleluia), Guilherme (tenor - Márcio Faraco) e Lia (soprano - Nara Leão).
+
 ## 2. A leitura da direção
 
 **O título já contém as duas referências.** *Ávido* é quem tem fome. Um paraíso ávido é um paraíso que devora (a antropofagia) e é também um paraíso habitado por gente com fome (a *Estética da Fome*, de Glauber Rocha, 1965). A direção propõe ler o título nos dois sentidos ao mesmo tempo:
@@ -71,13 +75,15 @@ O mito na frente. Cada faixa devora um texto ou uma lenda de fora sobre o Brasil
 
 Tudo nesta tabela é **proposta**. Pessoa, lugar e desfecho são decisão do autor. Os nomes das pessoas são do Carlos; a direção não batiza ninguém.
 
-| # | Onde e quando | A pessoa | A visão do paraíso que pesa sobre ela | Chão | Lidera | Desfecho |
-|---|---|---|---|---|---|---|
-| 1 | Rouen, França, 1562 | Um dos três Tupinambá levados à corte, olhando a Europa | O "bom selvagem" de **Montaigne** (França). No ensaio *Dos Canibais*, eles estranham que os famintos não agarrem os fartos pela garganta | Abertura sem samba: sete cordas, flauta, maracá, coro | **Lia** | Nem vitória nem derrota: **a pergunta** que o disco inteiro repete |
-| 2 | Recife, século XVII em diante | Uma rainha de nação no dia da coroação | O Éden pintado por **Frans Post** para os holandeses: paisagem imensa, gente minúscula | **Maracatu de baque virado** | **Helena** | Vitória simbólica: reina quem não governa |
-| 3 | Recôncavo baiano, século XIX | Uma ganhadeira que junta moeda para comprar a alforria de outra pessoa | **Aruanda**: para quem veio à força, o paraíso ficou do outro lado do mar (África) | **Ijexá** e samba de roda | **Glória** | Vitória cotidiana, uma pessoa de cada vez |
-| 4 | Baía de Guanabara, 22/11/1910 | Um marinheiro do encouraçado *Minas Geraes* na noite da Revolta da Chibata | O Rio da *belle époque*, a "Paris dos trópicos" de cartão-postal | **Samba** | **Bento** | Vitória e traição na mesma faixa: a anistia votada e quebrada |
-| 5 | Planalto Central, 1960 | Um candango ou uma candanga no dia da inauguração de Brasília | O sonho de **Dom Bosco** (Itália, 1883): a terra prometida entre os paralelos 15 e 20 | **Final de festival**: samba com guitarra, baixo e todos os tambores do disco | **Guilherme** + coro | Construiu o paraíso e foi morar fora dele. O sonho fica de pé, cobrado |
+| # | Onde e quando | A pessoa | A visão do paraíso que pesa sobre ela | Chão | Lidera o arranjo | Voz | Desfecho |
+|---|---|---|---|---|---|---|---|
+| 1 | Rouen, França, 1562 | Os três Tupinambá levados à corte, olhando a Europa | O "bom selvagem" de **Montaigne** (França). No ensaio *Dos Canibais*, eles estranham que os famintos não agarrem os fartos pela garganta | Abertura sem samba: sete cordas, flauta, maracá | **Lia** (flauta) | **O trio**: três vozes para três Tupinambá | Nem vitória nem derrota: **a pergunta** que o disco inteiro repete |
+| 2 | Recife, século XVII em diante | Uma rainha de nação no dia da coroação | O Éden pintado por **Frans Post** para os holandeses: paisagem imensa, gente minúscula | **Maracatu de baque virado** | **Helena** | **Lia** | Vitória simbólica: reina quem não governa |
+| 3 | Recôncavo baiano, século XIX | Uma ganhadeira que junta moeda para comprar a alforria de outra pessoa | **Aruanda**: para quem veio à força, o paraíso ficou do outro lado do mar (África) | **Ijexá** e samba de roda | **Glória** (sete cordas) | **Bento** | Vitória cotidiana, uma pessoa de cada vez |
+| 4 | Baía de Guanabara, 22/11/1910 | Um marinheiro do encouraçado *Minas Geraes* na noite da Revolta da Chibata | O Rio da *belle époque*, a "Paris dos trópicos" de cartão-postal | **Samba** | **Guilherme** | **Guilherme** | Vitória e traição na mesma faixa: a anistia votada e quebrada |
+| 5 | Planalto Central, 1960 | Um candango ou uma candanga no dia da inauguração de Brasília | O sonho de **Dom Bosco** (Itália, 1883): a terra prometida entre os paralelos 15 e 20 | **Final de festival**: samba com guitarra, baixo e todos os tambores do disco | **Bento** (baixo) + todos | **O trio** + coro | Construiu o paraíso e foi morar fora dele. O sonho fica de pé, cobrado |
+
+*Tabela revista em 14/11/2026 com as três vozes dadas pelo Carlos (ver "As três vozes", seção 5). Antes, Bento cantava a faixa 4 e Guilherme puxava a 5.*
 
 **Por que estas cinco.**
 - **Cinco culturas de fora, cinco jeitos de ver o paraíso:** França, Holanda, África (ao contrário), a Europa da *belle époque*, Itália.
@@ -106,12 +112,48 @@ Os cinco instrumentos do briefing não estão na paleta do Caô. A regra do cole
 | Integrante | Neste lançamento | Observação |
 |---|---|---|
 | **Glória** | **Violão de sete cordas** | Sai do nylon de bossa para as baixarias. É o instrumento do narrador e está em todas as faixas |
-| **Lia** | **Pandeiro e cuíca**; flauta; o tambor de cada faixa (alfaia, atabaque) | A cuíca é a assinatura do disco (ver abaixo) |
-| **Bento** | Voz e **baixo elétrico** | Ele é "o Alicerce". O baixo é o alicerce |
-| **Guilherme** | Segunda voz e **guitarra** | A guitarra é a antropofagia dentro do arranjo: o instrumento de fora, devorado |
+| **Lia** | **Voz (soprano)**; pandeiro e cuíca; flauta; o tambor de cada faixa (alfaia, atabaque) | A cuíca é a assinatura do disco (ver abaixo) |
+| **Bento** | **Voz (barítono)** e **baixo elétrico** | Ele é "o Alicerce". O baixo é o alicerce |
+| **Guilherme** | **Voz (tenor)** e **guitarra** | A guitarra é a antropofagia dentro do arranjo: o instrumento de fora, devorado |
 | **Helena** | Cello e violino | A corte do cortejo. As cordas são barrocas, não de trilha sonora |
 
 **Exceção à bíblia, documentada aqui:** baixo elétrico e guitarra entram na paleta como "às vezes — *Ávido Paraíso*", do mesmo jeito que o mellotron entrou em *Sozinho em Procissão*. Se funcionarem, a bíblia em `bawm-artista` ganha a linha.
+
+### As três vozes
+
+Dadas pelo Carlos em 14/11/2026: **Bento** (barítono, referência Mateus Aleluia), **Guilherme** (tenor, referência Márcio Faraco) e **Lia** (soprano, referência Nara Leão).
+
+⚠️ **Conflito com a bíblia, a resolver (decisão 7, seção 9).** Na bíblia do Caô, a voz feminina e a referência a Nara Leão são da **Glória**; a Lia é flauta e percussão e não canta (em *Loupi Menino*, a Lia liderava e a voz era da Glória). Este arquivo registra o que o Carlos escreveu: a Lia canta e a Glória só toca. Se era a Glória, troca-se o nome na tabela da seção 4 e nada mais muda. A bíblia em `bawm-artista` só é alterada depois da resposta.
+
+**O que as três referências trazem.**
+
+- **Mateus Aleluia** é a voz do terreiro e do Recôncavo, e vem de um trio vocal. Por isso a faixa 3 fica com o Bento.
+- **Márcio Faraco** é uma voz brasileira que fez carreira na França: o Brasil ouvido de fora, que é o tema do disco.
+- **Nara Leão**, aqui, é a do show *Opinião* (1964) e dos festivais: voz pequena dizendo coisa dura, sem enfeite. Não é a da bossa de apartamento.
+
+**A consequência para o tom.** Duas das três referências são vozes pequenas e próximas, e o tom pedido é épico e cru. A direção propõe tratar isso como a forma do disco: **o solista é um rosto em close, e o coro é a multidão.** O épico fica no coro e nos tambores. Quem conta a história não grita. O Bento é o único peso.
+
+**O trio é a quarta voz.** Três tessituras em harmonia fechada abrem o disco (três vozes para os três Tupinambá de Rouen) e fecham o disco (as mesmas três, agora com o coro inteiro). Cada voz tem uma faixa sua no meio.
+
+**Variações de Styles** *(proposta; é a tradução da direção para o que cada referência soa, e o Carlos ajusta de ouvido)*:
+
+| Voz | Variação (posição 2 do Styles) | Vocal Gender |
+|---|---|---|
+| **Bento** | `barítono grave e solene de terreiro, fraseado lento` | Male |
+| **Guilherme** | `tenor suave e próximo, quase falado` | Male |
+| **Lia** | `voz feminina pequena e clara, sem vibrato, mais dita que cantada` | Female |
+| **O trio** | `trio vocal misto em harmonia fechada` | sem botão; a testar |
+
+⚠️ **"Soprano" e "Nara Leão" puxam para lados diferentes.** Pelo que a direção conhece, a voz de Nara era pequena e de região média, não aguda. No prompt, `soprano` tende a dar voz alta e brilhante. A variação acima segue a referência (a maneira) e deixa a tessitura de fora. Se o que importa é a altura, troca-se por `soprano leve, sem vibrato`.
+
+⚠️ **Regras de uso das referências.**
+- **Nenhum dos três nomes entra no Styles** nem em tag. Nome de artista é filtro de moderação no Suno e não funciona (`suno-pro`).
+- **Nenhuma gravação deles é enviada ao Suno** como referência, Persona, Voices ou Cover. A referência é a maneira de cantar, não o timbre de uma pessoa. Voz é direito de personalidade.
+- **Os nomes não aparecem em pitch, bio ou post** como "soa como". Ficam neste briefing e no dossiê, como direção do autor.
+
+⚠️ **O que o Suno entrega e o que não entrega.**
+- Uma geração tem **uma voz principal**. Três solistas com partes fixas na mesma faixa não é coisa garantida (**consenso**). Nas faixas 1 e 5, o trio é pedido como textura de harmonia; as outras vozes entram como resposta entre parênteses.
+- Para cada voz soar igual do começo ao fim do disco, o caminho é **uma Style Persona por voz** (Bento, Guilherme, Lia), salva da primeira geração boa de cada um. ⚠️ Selecionar a Persona preenche a caixa Styles sozinha.
 
 ### As pontes (por que não é turismo)
 
@@ -123,7 +165,7 @@ Os cinco instrumentos do briefing não estão na paleta do Caô. A regra do cole
 
 1. **O sete cordas narra.** Abre as faixas sozinho, como o violão do cantador nos filmes do Cinema Novo.
 2. **A cuíca é a testemunha.** É o instrumento que fala. Entra por tag, pelo menos uma vez por faixa, e nunca como efeito cômico.
-3. **O coro é o povo.** Pergunta e resposta em todas as faixas. É forma nativa do samba de roda, do partido-alto, do terreiro e do maracatu.
+3. **O coro é o povo.** Pergunta e resposta em todas as faixas. É forma nativa do samba de roda, do partido-alto, do terreiro e do maracatu. O solista pergunta em voz pequena; o coro responde em voz cheia.
 4. **O disco se eletrifica à medida que o tempo anda** *(intenção de arranjo)*. A faixa 1 é toda acústica. O baixo elétrico chega no meio. A guitarra só fica à frente na faixa 5.
 
 ### Styles de partida *(proposta para `bawm-arranjador` testar; não é especificação)*
@@ -145,6 +187,8 @@ Sete descritores, três instrumentos. **Cuíca, guitarra, alfaia e atabaque mora
 ### ⚠️ Prova de som antes de fechar o briefing
 
 A direção não sabe o quanto o Suno v5.5 acerta **baque virado**, **ijexá** e **cuíca**. Samba ele costuma entregar; ritmo regional específico é incerto (**anedótico**). Antes de comprometer o conceito, gere três esboços instrumentais curtos (samba com sete cordas e cuíca; baque virado; ijexá) e ouça. Se o maracatu ou o ijexá não saírem reconhecíveis, a faixa correspondente muda de chão ou a tabela da seção 4 muda. Registre os esboços: eles entram no bloco 2 dos dossiês.
+
+**Quarto esboço, das vozes:** um trecho curto para cada variação da tabela "As três vozes" e um para o trio. É o teste que diz se as três referências viraram três vozes distintas, e é de onde saem as Style Personas.
 
 ## 6. O que este lançamento NÃO é
 
@@ -195,6 +239,9 @@ A linguagem do Caô é gravura, talha e ex-voto, ouro sobre madeira escura. Este
 4. **A guitarra:** limpa, com trêmulo, à maneira dos festivais de 1967 *(recomendado: mantém o Exclude e a bíblia)*, ou com fuzz? Com fuzz, `distorted guitar` sai do Exclude neste lançamento e a exceção fica registrada.
 5. **Gente inventada ou figuras históricas com nome?** A direção recomenda gente inventada ao lado do fato.
 6. **Quem batiza as cinco pessoas.** Nome próprio no título é marca do Caô.
+7. **A voz feminina é da Lia ou da Glória?** Na bíblia, quem canta e carrega a referência a Nara Leão é a Glória. Se a Lia passa a cantar, a Glória fica só no sete cordas neste lançamento, ou a mudança é permanente e entra na bíblia?
+8. **Soprano ou Nara?** A altura da voz ou a maneira de dizer (ver o alerta em "As três vozes").
+9. **A distribuição das vozes** na tabela da seção 4 vale? Trio nas faixas 1 e 5, Lia na 2, Bento na 3, Guilherme na 4.
 
 ## 10. Pendências e alertas
 
