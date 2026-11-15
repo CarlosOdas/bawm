@@ -25,14 +25,43 @@
 
 **Tema:** o primeiro olhar de fora. A carta em que a terra é descrita como um jardim onde tudo dá, antes de ter nome.
 
-**A pessoa.** Duas candidatas; o autor escolhe uma.
+**A pessoa.** Três candidatos; o autor escolhe um. *(Em 15/11/2026 o Carlos pediu mais contexto antes de decidir. É o que segue.)*
 
-- **O escrivão, na última noite.** Ele passou dez dias olhando e agora escreve ao rei. Quer que acreditem no que viu. No fim da carta, pede um favor de família: que o genro, degredado em São Tomé, possa voltar. O homem que descreve o paraíso está pensando em casa.
-- **O degredado deixado na praia.** A frota parte na manhã seguinte e ele fica. É o primeiro de fora a morar no paraíso, e não escolheu.
+### O que as fontes dão
 
-**A travessia:** do convés para a praia. Quem chegou olha, escreve e vai embora; a terra fica, com um nome que não era o dela. No escrivão, a travessia é do deslumbramento para o pedido. No degredado, é da nau para a areia, sem volta.
+Conferido em 15/11/2026 por busca na web. ⚠️ **A direção não conseguiu abrir o texto integral da carta nesta sessão** (os sites que o hospedam estavam fora da rede permitida). Os fatos abaixo estão confirmados por fontes secundárias; **as palavras exatas da carta ainda precisam ser lidas na fonte** antes de qualquer verso citar.
 
-**Imagem única (sugestão):** a pena do escrivão e as naus diminuindo no horizonte. Ou a tinta ainda molhada no papel enquanto a âncora sobe.
+- **A carta.** Escrita pelo escrivão da frota de Cabral ao rei D. Manuel e assinada em Porto Seguro, "da vossa ilha de Vera Cruz", na sexta-feira, 1º de maio de 1500. A frota tinha avistado a terra em 22 de abril e partiu no dia seguinte à carta.
+- **O pedido final.** Caminha termina pedindo ao rei que mande vir da ilha de São Tomé o genro, Jorge de Osório. Os historiadores divergem: uns leem um pedido de favor, outros um pedido de perdão para um degredado. O crime do genro não está claro nas fontes encontradas.
+- **O que aconteceu com Caminha.** Morreu em Calicute, na Índia, em dezembro de 1500, sem saber a resposta. Em dezembro de 1501 o rei deu o posto dele na Casa da Moeda do Porto ao neto, Rodrigo de Osório, registrando que o avô tinha "morrido na Índia".
+- **Os dois degredados.** Ficaram em terra por ordem do capitão. A carta dá o nome de um, **Afonso Ribeiro**; o outro não tem nome seguro. Outro relato de quem estava na frota, a *Relação do Piloto Anônimo*, conta que, quando as naus partiram, **os dois começaram a chorar e os homens da terra os consolaram**.
+- **Os dois grumetes.** Na noite anterior à partida, dois grumetes fugiram da nau para a terra e não voltaram. **Ficaram porque quiseram.** As fontes não dão nome nem destino.
+- *Não confirmado nesta sessão:* que a carta ficou inédita até 1817; o que foi feito de Afonso Ribeiro depois de 1500 (há versões, todas de segunda mão).
+
+### Os três candidatos
+
+| | O escrivão | O degredado | O grumete |
+|---|---|---|---|
+| **Quem é** | Um homem do Porto, funcionário do rei, a caminho da Índia | Um condenado, deixado na praia por ordem do capitão | Um rapaz de bordo, o mais baixo da tripulação |
+| **O que quer** | Que o rei acredite no que ele viu, e que traga o genro de volta | Ir embora com as naus | Ficar |
+| **A travessia** | Do deslumbramento para o pedido | Da nau para a areia, sem volta e sem escolha | Da nau para a terra, por vontade própria |
+| **A cena** | A última noite, a tinta molhada, a âncora subindo | A manhã na areia, as velas diminuindo, e os moradores da terra consolando quem chora | A noite, o esquife, a praia escura. De manhã as naus vão embora sem ele |
+| **O que a faixa ganha** | A promessa dita pela boca de quem a escreveu. É o olhar de fora em estado puro | A imagem mais forte que as fontes dão: quem mora no paraíso consola o condenado que foi largado nele | **O primeiro gesto de emancipação do lançamento.** Alguém de baixo foge para dentro do paraíso. É o "ávido" do título em pessoa |
+| **O que a faixa perde** | É um homem escrevendo, e o single seguinte (Montaigne) também é. Dois escritores em duas semanas seguidas | Começa em choro, e o tom pedido é sem melancolia. Ele não age: fazem coisas com ele | As fontes dão duas linhas. Todo o resto é invenção |
+| **Gente inventada?** | Não: é real e tem nome | Só se for o segundo degredado, o sem nome | **Sim.** Sem nome nas fontes; o autor batiza |
+| **Risco** | O pedido pelo genro puxa para a ironia, que é tabu | Afonso Ribeiro é figura real de biografia incerta | Romantizar a fuga para uma terra que tinha dono. Ele entra como hóspede, não como descobridor |
+
+### Recomendação da direção
+
+**O grumete.** Três razões:
+
+1. **Separa o single 1 do single 2.** Com o escrivão, o tríptico abre com dois homens escrevendo. Com o grumete, abre com alguém que fica na praia, e Montaigne passa a ser o único que escreve de longe.
+2. **É a decisão "gente inventada" aplicada ao pé da letra:** um anônimo ao lado do fato, com o nome que o autor der. Nome próprio no título é marca do Caô.
+3. **Faz par com o fim do EP.** O grumete foge para dentro do paraíso; o candango da faixa 5 constrói o paraíso e vai morar fora dele.
+
+**A carta não some.** Ela é a moldura: o escrivão está a bordo escrevendo que a terra dá tudo, e a fuga do rapaz é uma das últimas coisas que a carta registra. O tema do single continua sendo Caminha; a pessoa é quem acreditou nele primeiro.
+
+Se o Carlos preferir o olhar puro, sem ninguém ficando, a escolha é o escrivão, e o single de Montaigne precisa mudar de cena para não repetir a dele.
 
 **O que este single entrega ao lançamento:** a promessa. É aqui que alguém diz pela primeira vez que a terra dá tudo. O EP inteiro cobra essa frase, e por isso ela pode aparecer aqui dita com fé, sem contestação. A resposta não cabe neste single.
 
@@ -42,7 +71,7 @@
 |---|---|
 | Formato | ☒ single avulso, primeiro do tríptico |
 | O que esta faixa faz pelo catálogo que outra não faz | Abre *Ávido Paraíso*, apresenta a voz do Bento na forma deste lançamento e fixa a Style Persona dele |
-| Data-alvo | **qui 22/04/2027** *(proposta; ver seção 7 do README)* · master, dossiê e capa prontos até 19/03 · envio à LANDR até 25/03 |
+| Data-alvo | **sex 16/04/2027** *(proposta; ver seção 7 do README)* · master, dossiê e capa prontos até 12/03 · envio à LANDR até 19/03 |
 | Última faixa lançada, e há quanto tempo | EP *Sozinho em Procissão*, planejado para 13/11/2026 |
 
 ## 4. Restrições — o que esta faixa NÃO é
@@ -51,6 +80,8 @@
 - **Não responde à carta.** Quem responde é o EP. Aqui não há voz indígena falando: eles são vistos, e a faixa sabe que só está mostrando o olhar de quem chegou.
 - **Não é irônica com o pedido do genro.** É um homem com família. O fato entra seco, do tamanho que tem.
 - **Não é lamento do degredado**, se for ele a pessoa. Ele fica de pé na areia.
+- **Não é descobrimento**, se for o grumete. A terra tem gente, e ele chega como quem pede pouso.
+- **É em português.** ✅ Uma expressão de outro idioma pode entrar; a letra é em português (decisão do Carlos, 15/11/2026).
 - **Não gasta o EP:** sem guitarra, sem baixo elétrico, sem tambor, sem trio. O coro, se entrar, é uma resposta curta entre parênteses.
 - **Não usa a faixa 1 do EP:** nada de Rouen, nada de Montaigne.
 
@@ -58,12 +89,7 @@ Tabus permanentes do Caô: ironia fácil, gíria de internet, tema de consumo, q
 
 **Fontes.** A carta de Caminha está em domínio público. Se algum verso citar, adaptar ou responder a uma passagem dela, registre a passagem no bloco 1 do dossiê.
 
-⚠️ **A conferir na fonte antes de qualquer verso** (a direção escreveu de memória):
-- a data e o lugar em que a carta é assinada, e o destinatário;
-- o pedido final pelo genro, Jorge de Osório, e onde ele estava;
-- quantos degredados ficaram, se tinham nome registrado e o que as fontes dizem do momento da partida;
-- a passagem sobre a terra em que "dar-se-á nela tudo";
-- o destino da carta, que teria ficado inédita até 1817, e o de Caminha, que teria morrido em Calicute ainda em 1500.
+⚠️ **Ainda a ler na fonte antes de qualquer verso:** o texto integral da carta, em especial os parágrafos finais (os degredados, os grumetes, o pedido, a assinatura) e a passagem sobre a terra em que "dar-se-á nela tudo". O que já foi conferido e o que não foi está na seção 2.
 
 ## 5. Direção sonora (para `bawm-arranjador`)
 
@@ -98,6 +124,6 @@ Vocal Gender: **Male** · Sliders de partida **30 / 80** (câmara mais nua) · E
 
 ## 7. Passagem
 
-Para fechar este briefing faltam: **a pessoa** (escrivão ou degredado) e **a data**. Ao fechar, copie o modelo de dossiê para esta pasta e siga para `bawm-letrista`.
+Para fechar este briefing faltam: **a pessoa** (escrivão, degredado ou grumete) e **a data**. Ao fechar, copie o modelo de dossiê para esta pasta e siga para `bawm-letrista`.
 
 **Fechado em:**
