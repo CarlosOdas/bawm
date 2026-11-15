@@ -68,7 +68,7 @@ Vindas das skills sincronizadas da conta. **Nenhuma continua idêntica à origem
 
 | Skill | sha256 na origem | sha256 aqui | O que mudou |
 |---|---|---|---|
-| bawm-artista | `d6c5357fcdb3` | `95f463aa3382` | **Bloco Styles reescrito** para caber no teto de 7 descritores e tirar gênero vocal do prompt |
+| bawm-artista | `d6c5357fcdb3` | `c79c5e23829d` | **Bloco Styles reescrito** para caber no teto de 7 descritores e tirar gênero vocal do prompt · **a voz feminina do Caô passa da Glória para a Lia** (decisão do Carlos, 15/11/2026) |
 | bawm-direcao | `2844ce0bfe0e` | `996300685b23` | Aponta os dois modelos; pendência dos perfis do Spotify atualizada (estão reivindicados) |
 | bawm-producao | `8f9a0b552c42` | `bb14344596ae` | Aponta o modelo de dossiê |
 | suno-pro | `30d1953a984e` | `065973bbfc31` | Removida a linha com a URL do artifact do manual completo |

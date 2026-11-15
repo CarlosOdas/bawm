@@ -16,6 +16,13 @@
 > ✅ **Decidido pelo Carlos em 15/11/2026, mais tarde no mesmo dia:**
 > 7. **Um single por semana**, e não em três dias seguidos. *(Revê o item 1 só no ritmo; os três singles continuam fora do EP.)*
 > 8. **Todas as letras são em português.** Podem entrar expressões de outros idiomas, mas a letra é em português.
+>
+> ✅ **Decidido pelo Carlos em 15/11/2026, terceira rodada:**
+> 9. **A pessoa do single de Caminha é o grumete.**
+> 10. **Datas ficam para depois.** "Irrelevante, pensamos nisso depois de tudo pronto." As datas da seção 7 são só referência de contagem.
+> 11. **A voz feminina é sempre a da Lia**, que já está salva no Suno. Vale para o Caô, não só para este lançamento: a bíblia em `bawm-artista` foi atualizada.
+> 12. **Nara, e não soprano:** a maneira de dizer. O timbre já está salvo.
+> 13. **Começa com o Bento.** A distribuição das outras vozes se decide faixa a faixa.
 
 ---
 
@@ -95,13 +102,13 @@ Três olhares, de fora para dentro: quem chegou, quem nunca veio, quem já estav
 
 | Semana | Nome de trabalho | O olhar | A pessoa *(proposta; o autor decide)* | Voz |
 |---|---|---|---|---|
-| 1 | **Caminha** | **Quem chegou.** A carta de 1º de maio de 1500, a primeira descrição da terra como jardim | Três candidatos: o escrivão, o degredado ou o grumete que fugiu para a terra. Contexto e recomendação no [briefing do single](single-1-caminha/briefing.md) | **Bento** |
+| 1 | **Caminha** | **Quem chegou.** A carta de 1º de maio de 1500, a primeira descrição da terra como jardim | ✅ **O grumete** que fugiu da nau para a terra na véspera da partida. Ver o [briefing do single](single-1-caminha/briefing.md) | ✅ **Bento** |
 | 2 | **Montaigne** | **Quem nunca veio.** *Dos Canibais* (1580): o paraíso imaginado de uma biblioteca na França | Montaigne lembrando os três Tupinambá de Rouen. Ele conta que ouviu deles três coisas e **esqueceu a terceira** | **Guilherme** |
 | 3 | **Os Guarani** | **Quem já estava.** *Yvy marã e'ỹ*, a Terra sem Males: o paraíso procurado a pé, por dentro | Alguém que caminha | **Lia** |
 
 **Como o tríptico se separa do EP.**
 
-- **Uma voz por single.** Os singles apresentam o tema e também as três vozes, uma de cada vez. O trio só se junta na faixa 1 do EP. De quebra, cada single é a geração de onde sai a Style Persona daquela voz.
+- **Uma voz por single** *(proposta; só o Bento no primeiro está decidido)*. Os singles apresentam o tema e também as três vozes, uma de cada vez. O trio só se junta na faixa 1 do EP. De quebra, cada single é a geração de onde sai a Style Persona daquela voz.
 - **Os singles são acústicos:** voz, sete cordas, pandeiro e cuíca. **Guitarra, baixo elétrico, tambores e coro cheio só chegam no EP.**
 - **Montaigne aparece duas vezes, e as duas faixas não podem ser a mesma.** No single, fala quem escreve, sozinho, anos depois. Na faixa 1 do EP, falam os três Tupinambá, em Rouen, no dia. Mudam quem fala, a voz (Guilherme / o trio) e o chão. **A pergunta das "metades" fica guardada para o EP:** o single pode chegar até a coisa esquecida, mas não entrega a pergunta.
 - **Gente inventada vale para o EP.** Caminha e Montaigne são os autores dos textos e entram com o nome que têm. Quem caminha no terceiro single é inventado.
@@ -169,7 +176,7 @@ Os cinco instrumentos do briefing não estão na paleta do Caô. A regra do cole
 
 Dadas pelo Carlos em 14/11/2026: **Bento** (barítono, referência Mateus Aleluia), **Guilherme** (tenor, referência Márcio Faraco) e **Lia** (soprano, referência Nara Leão).
 
-⚠️ **Conflito com a bíblia, a resolver (decisão 2, seção 9).** Na bíblia do Caô, a voz feminina e a referência a Nara Leão são da **Glória**; a Lia é flauta e percussão e não canta (em *Loupi Menino*, a Lia liderava e a voz era da Glória). Este arquivo registra o que o Carlos escreveu: a Lia canta e a Glória só toca. Se era a Glória, troca-se o nome na tabela da seção 4 e nada mais muda. A bíblia em `bawm-artista` só é alterada depois da resposta.
+> ✅ **15/11/2026, decisão do Carlos: a voz feminina é sempre a da Lia**, e ela já está salva no Suno. A bíblia em `bawm-artista`, que dava a voz feminina à Glória, foi atualizada. A Glória fica com o violão, que neste lançamento é o de sete cordas.
 
 **O que as três referências trazem.**
 
@@ -192,7 +199,9 @@ Dadas pelo Carlos em 14/11/2026: **Bento** (barítono, referência Mateus Alelui
 
 *Corrigido em 15/11/2026: a versão de 14/11 tinha vírgulas dentro das variações (cada vírgula conta como um descritor a mais e estourava o teto de sete) e nomeava gênero vocal na da Lia, que é coisa de botão.*
 
-⚠️ **"Soprano" e "Nara Leão" puxam para lados diferentes.** Pelo que a direção conhece, a voz de Nara era pequena e de região média, não aguda. No prompt, `soprano` tende a dar voz alta e brilhante. A variação acima segue a referência (a maneira) e deixa a tessitura de fora. Se o que importa é a altura, troca-se por `soprano leve sem vibrato`.
+> ✅ **15/11/2026, decisão do Carlos: Nara.** Vale a maneira de dizer, e o timbre já está salvo no Suno. A palavra `soprano` não entra no prompt.
+
+⚠️ **Voz salva e Styles.** Se a voz da Lia está salva como Style Persona, selecioná-la preenche a caixa Styles sozinha, com o estilo da faixa de onde ela saiu. Neste lançamento o chão é samba, e não a MPB de câmara do catálogo: confira o que a Persona escreve na caixa antes de gerar, e registre no bloco 2 do dossiê o tipo de voz salva (Style Persona, Custom Model ou Voice) e o nome dela. Para o Bento, a pergunta é a mesma: há voz salva, ou a do primeiro single é a que vai ser fixada?
 
 ⚠️ **Regras de uso das referências.**
 - **Nenhum dos três nomes entra no Styles** nem em tag. Nome de artista é filtro de moderação no Suno e não funciona (`suno-pro`).
@@ -259,26 +268,26 @@ Tabus permanentes do Caô continuam: ironia fácil, gíria de internet, tema de 
 >
 > *Ficam descartados a cascata de quatro singles (proposta de 14/11) e os três dias seguidos (primeira decisão de 15/11).*
 
-**Datas: proposta da direção, a confirmar.**
+> ✅ **15/11/2026, decisão do Carlos: as datas se decidem depois de tudo pronto.** É também a regra do selo: master, dossiê e arte prontos antes de marcar a data. A tabela abaixo fica como referência de contagem, e não como compromisso.
 
-| Marco | Data | |
+| Marco | Data de referência | |
 |---|---|---|
-| Prova de som, com as vozes (seção 5) | até 29/11/2026 | |
-| Os três singles prontos: master, dossiê fechado e capa de cada um | até 12/03/2027 | |
-| **Envio dos três singles à LANDR**, juntos, cada um com a sua data | até **19/03/2027** (sex) | D−28 do primeiro |
-| As cinco faixas do EP prontas, com dossiês e capa | até 02/04/2027 | |
-| **Envio do EP à LANDR** | até **09/04/2027** (sex) | D−35 |
-| **Single 1: Caminha** | **sex 16/04/2027** | |
-| **Single 2: Montaigne** | **sex 23/04/2027** | |
-| **Single 3: Os Guarani** | **sex 30/04/2027** | |
+| Prova de som, com as vozes (seção 5) | antes da primeira geração | |
+| Os três singles prontos: master, dossiê fechado e capa de cada um | 12/03/2027 | |
+| Envio dos três singles à LANDR, juntos, cada um com a sua data | 19/03/2027 (sex) | D−28 do primeiro |
+| As cinco faixas do EP prontas, com dossiês e capa | 02/04/2027 | |
+| Envio do EP à LANDR | 09/04/2027 (sex) | D−35 |
+| Single 1: Caminha | sex 16/04/2027 | |
+| Single 2: Montaigne | sex 23/04/2027 | |
+| Single 3: Os Guarani | sex 30/04/2027 | |
 | Pitch editorial do EP | 30/04 a 04/05/2027 | abre quando o single 3 sai |
-| **EP *Ávido Paraíso*** | **sex 14/05/2027** | o dia seguinte ao 13 de maio |
+| EP *Ávido Paraíso* | sex 14/05/2027 | o dia seguinte ao 13 de maio |
+
+**O que vale em qualquer data:** envio à LANDR com 28 dias ou mais de antecedência; uma semana entre os singles; pelo menos duas semanas entre o último single e o EP.
 
 - **Por que 14 de maio.** É o dia depois da abolição, e resume o EP. O resto do calendário é contado para trás a partir dele.
 - **Por que duas semanas entre o último single e o EP.** O pitch do EP só abre quando o terceiro single sai. Com duas semanas, ele entra com folga.
 - **Alternativa: quatro sextas seguidas** (23/04, 30/04, 07/05 e o EP em 14/05). Caminha sai no dia seguinte ao 22 de abril, e o lançamento vira um mês contínuo. O custo é o pitch do EP no mínimo exato de 7 dias.
-- **Por que não antes.** São oito letras do Carlos, uma faixa por vez. De hoje a 02/04 são vinte semanas: duas semanas e meia por faixa.
-- **O que custa.** O Caô fica sem lançar de 13/11/2026 a 16/04/2027, cinco meses.
 - **Faixa-foco do EP:** decide-se com os cinco masters na mão. O EP sai inteiro e tem um pitch só.
 - **Ordem de trabalho:** os três singles primeiro, na ordem em que saem, porque fixam as três vozes. Depois as cinco faixas do EP. Nunca menos de 28 dias entre envio e lançamento.
 
@@ -295,16 +304,14 @@ A linguagem do Caô é gravura, talha e ex-voto, ouro sobre madeira escura. Este
 
 ## 9. Decisões
 
-**Tomadas pelo Carlos em 15/11/2026:** caminho dos singles (3) e do EP (1) · as cinco estações · a leitura do título · guitarra limpa · gente inventada · um single por semana · letras em português. Estão no alto deste arquivo.
+**Tomadas pelo Carlos em 15/11/2026** (as treze estão no alto deste arquivo): caminho dos singles (3) e do EP (1) · as cinco estações · a leitura do título · guitarra limpa · gente inventada · um single por semana · letras em português · o grumete · a voz feminina é sempre a da Lia · Nara, e não soprano · começa com o Bento · datas depois de tudo pronto.
 
-**Abertas:**
+**Abertas, sem pressa:**
 
-1. **As datas.** Singles em 16, 23 e 30/04/2027 e EP em 14/05/2027? Ou as quatro sextas seguidas (seção 7)?
-2. **A voz feminina é da Lia ou da Glória?** Na bíblia, quem canta e carrega a referência a Nara Leão é a Glória. Se a Lia passa a cantar, a Glória fica só no sete cordas neste lançamento, ou a mudança é permanente e entra na bíblia?
-3. **Soprano ou Nara?** A altura da voz ou a maneira de dizer (ver o alerta em "As três vozes").
-4. **A distribuição das vozes.** Nos singles: Bento, Guilherme, Lia. No EP: trio nas faixas 1 e 5, Lia na 2, Bento na 3, Guilherme na 4.
-5. **A pessoa do single de Caminha:** o escrivão, o degredado ou o grumete. O Carlos pediu mais contexto em 15/11/2026; está no [briefing do single](single-1-caminha/briefing.md), seção 2.
-6. **Os nomes das cinco pessoas do EP**, que são do autor.
+1. **As datas**, quando tudo estiver pronto.
+2. **A voz de cada faixa depois da primeira.** A direção propôs Guilherme e Lia nos outros dois singles, e no EP o trio nas faixas 1 e 5, Lia na 2, Bento na 3, Guilherme na 4. Decide-se faixa a faixa.
+3. **Os nomes das pessoas**, que são do autor. O primeiro é o do grumete.
+4. **As vozes salvas no Suno:** de que tipo são (Style Persona, Custom Model ou Voice) e se o Bento também tem uma.
 
 ## 10. Pendências e alertas
 
@@ -316,9 +323,9 @@ A linguagem do Caô é gravura, talha e ex-voto, ouro sobre madeira escura. Este
 
 ## 11. Briefings
 
-Uma faixa por vez. O primeiro está aberto:
+Uma faixa por vez.
 
-- [`single-1-caminha/briefing.md`](single-1-caminha/briefing.md)
+- [`single-1-caminha/briefing.md`](single-1-caminha/briefing.md) · **fechado em 15/11/2026** · dossiê aberto em [`single-1-caminha/dossie.md`](single-1-caminha/dossie.md) · etapa atual: letra
 
 Os dois singles seguintes e as cinco faixas do EP ganham briefing à medida que o anterior fechar o bloco 1 do dossiê.
 

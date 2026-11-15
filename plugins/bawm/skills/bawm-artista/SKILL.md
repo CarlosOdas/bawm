@@ -33,9 +33,11 @@ Antes de fechar um nome, procure-o no Spotify, Apple Music e Deezer. Escolha um 
 |---|---|---|---|---|
 | **Bento** | 30 | O Alicerce | Voz **barítono** | Abre o portal. Peso de Minas e balanço do Rio. Voz principal, guardião do ritual. Quando ele entra, a faixa assenta |
 | **Guilherme** | 28 | O Harmonizador | Voz e harmonia | Frescor e técnica. Segunda voz, contracanto, resolução harmônica |
-| **Glória** | 25 | A Alma Bossa | Voz feminina, **violão de nylon** | Sofisticação e leveza à maneira de Nara Leão. Sopro, não peso |
+| **Glória** | 25 | A Alma Bossa | **Violão de nylon** | Sofisticação e leveza de bossa no violão. Sopro, não peso |
 | **Helena** | 22 | A Ancestralidade e a Corda | **Cello e violino** | O "choro" e a glória do Afro-Barroco. Coração resiliente do grupo |
-| **Lia** | 24 | A Brisa Indie | **Flauta e percussão** | Ar, movimento, textura. É por onde entra o mundo contemporâneo |
+| **Lia** | 24 | A Brisa Indie | **Voz feminina**, **flauta e percussão** | A voz feminina do Caô: pequena, clara, à maneira de Nara Leão. Ar, movimento, textura. É por onde entra o mundo contemporâneo |
+
+> **A voz feminina é sempre a da Lia** (decisão do Carlos, 15/11/2026). O timbre está salvo no Suno e é o da referência a Nara Leão: a maneira de dizer, não a altura. Até *Sozinho em Procissão* esta bíblia atribuía a voz feminina à Glória; a Glória fica com o violão.
 
 **Regra de arranjo:** toda faixa do Caô se explica por quem está tocando. Se não há função clara para ao menos três dos cinco, ou é do artista errado, ou o arranjo não está pronto.
 
@@ -79,9 +81,10 @@ Conta por vírgula: **5 descritores** · 2 gêneros · 3 instrumentos. Sobram do
 |---|---|---|
 | **Bento** | `barítono grave e assentado` | Male |
 | **Guilherme** | `segunda voz em harmonia próxima e contracanto limpo` | Male |
-| **Glória** | `voz leve e sofisticada à maneira da bossa, nylon à frente` | Female |
+| **Glória** | `violão de nylon à frente em fraseado de bossa` | — |
 | **Helena** | `violino chorado e cordas em primeiro plano` | — |
-| **Lia** | `flauta e textura arejada de indie folk global` | — |
+| **Lia** (voz) | `voz leve e clara à maneira da bossa` | Female |
+| **Lia** (flauta) | `flauta e textura arejada de indie folk global` | — |
 
 ⚠️ **Nenhuma variação nomeia gênero vocal.** `voz masculina`, `male vocals` e afins não vão no Styles — é botão (regra 7 da `suno-pro`). O Styles fica com **timbre e sotaque**: barítono é tessitura, não gênero.
 
@@ -102,7 +105,7 @@ gravação ritual acústica e próxima em wide stereo
 
 **Sliders:** Weirdness 35 · Style Influence 75. Câmara mais nua: 30 / 80. Experimental: 55 / 60.
 
-**Vocal Gender:** Male para Bento e Guilherme; Female para Glória. Use o botão, nunca tag.
+**Vocal Gender:** Male para Bento e Guilherme; Female para Lia. Use o botão, nunca tag.
 
 ## Consistência de voz no Suno
 
