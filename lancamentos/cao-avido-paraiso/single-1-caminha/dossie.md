@@ -35,6 +35,7 @@
 | Versão | Arquivo | Data | O que é |
 |---|---|---|---|
 | v1 | [`rascunhos/v1-2026-11-15.md`](rascunhos/v1-2026-11-15.md) | 15/11/2026 | Primeira versão, seis sextilhas, escrita pelo Carlos depois da provocação. Transcrita como veio |
+| v2 | [`rascunhos/v2-2026-11-15.md`](rascunhos/v2-2026-11-15.md) | 15/11/2026 | A v1 com sete versos propostos pela oficina (IA) e a estrofe 5 reordenada. **Proposta, ainda não aprovada pelo autor** |
 
 **Origem da faixa — registrada no dia, 15/11/2026:**
 
@@ -53,9 +54,25 @@
 **Modo de assistência usado:**
 - ☒ Oficina (crítica, escansão, apontamento) — autoria 100% humana · 15/11/2026, sobre a v1, a pedido do Carlos ("Melhore o esquema de rimas"). Registro em [`oficina-v1.md`](oficina-v1.md). A oficina propôs o esquema, **reordenou versos do autor na estrofe 5 sem palavra nova** e ofereceu bancos de palavras para rima. **Não escreveu verso**
 - ☒ Provocação (imagens, campo semântico, perguntas) — autoria 100% humana · pedida pelo Carlos em 15/11/2026, antes de escrever; entregue no mesmo dia em [`provocacao.md`](provocacao.md), sem nenhum verso
-- ☐ **Coautoria assistida** — autoria **mista**. Não registre como obra puramente humana
+- ☒ **Coautoria assistida** — autoria **mista**. Não registre como obra puramente humana · 15/11/2026: depois de a oficina oferecer só o esquema e os bancos de palavras, o Carlos pediu "Escreva os sete versos"
 
 Se houve coautoria, **quais linhas** e de quem partiram:
+
+**Sete versos propostos pela oficina, com IA, em 15/11/2026.** Os outros 29 são do Carlos, da v1. Estado de cada um: *proposto*, até o autor aprovar, trocar ou reescrever.
+
+| Estrofe · verso | Verso do autor na v1 | Verso proposto pela oficina (IA) | Alternativa oferecida | Estado |
+|---|---|---|---|---|
+| 1 · 6 | busca a sombra, foge à luz | **foge à luz e ganha o breu** *(mantém "foge à luz", do autor)* | busca a sombra, veste o breu | proposto |
+| 2 · 1 | Vai no esquife a remar | **Vai no esquife que escolheu** *(mantém "Vai no esquife")* | Rema o esquife que escolheu | proposto |
+| 2 · 2 | longe do mestre e da nau | **longe do mestre, aprendiz** *(mantém "longe do mestre")* | longe da nau, por um triz | proposto |
+| 3 · 1 | Atravessa o mar escuro | **Corta o mar sem cicatriz** | Vai no escuro por um triz | proposto |
+| 3 · 6 | já não é refém de além | **já não é refém de alguém** *(troca uma palavra)* | já não volta pra Belém | proposto |
+| 6 · 2 | testemunha deste chão | **de testemunha e de aviso** | testemunha deste piso *(troca uma palavra)* | proposto |
+| 6 · 4 | navegar na escuridão | **pelo mar escuro e liso** *("mar escuro" vem do verso 3·1 da v1)* | navegar no mar mais liso | proposto |
+
+**Reordenação, sem palavra nova:** na estrofe 5, a oficina propôs a ordem 1-4-2-5-3-6 dos versos do autor. Com isso a inocência de Adão passa da dança para o rapaz.
+
+**Também da oficina:** o esquema (sextilha em todas as estrofes, deixa entre as estrofes narrativas, rima final em *-iso*). Ver [`oficina-v1.md`](oficina-v1.md).
 
 **Fontes e referências** — verso que cita, adapta ou responde a domínio público:
 
