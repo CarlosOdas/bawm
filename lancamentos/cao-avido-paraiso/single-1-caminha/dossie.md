@@ -50,7 +50,7 @@
 
 **Modo de assistência usado:**
 - ☐ Oficina (crítica, escansão, apontamento) — autoria 100% humana
-- ☐ Provocação (imagens, campo semântico, perguntas) — autoria 100% humana
+- ☒ Provocação (imagens, campo semântico, perguntas) — autoria 100% humana · pedida pelo Carlos em 15/11/2026, antes de escrever; entregue no mesmo dia em [`provocacao.md`](provocacao.md), sem nenhum verso
 - ☐ **Coautoria assistida** — autoria **mista**. Não registre como obra puramente humana
 
 Se houve coautoria, **quais linhas** e de quem partiram:

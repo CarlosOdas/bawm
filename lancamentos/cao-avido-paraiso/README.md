@@ -325,7 +325,7 @@ A linguagem do Caô é gravura, talha e ex-voto, ouro sobre madeira escura. Este
 
 Uma faixa por vez.
 
-- [`single-1-caminha/briefing.md`](single-1-caminha/briefing.md) · **fechado em 15/11/2026** · dossiê aberto em [`single-1-caminha/dossie.md`](single-1-caminha/dossie.md) · etapa atual: letra
+- [`single-1-caminha/briefing.md`](single-1-caminha/briefing.md) · **fechado em 15/11/2026** · dossiê aberto em [`single-1-caminha/dossie.md`](single-1-caminha/dossie.md) · etapa atual: letra, em modo Provocação ([`provocacao.md`](single-1-caminha/provocacao.md))
 
 Os dois singles seguintes e as cinco faixas do EP ganham briefing à medida que o anterior fechar o bloco 1 do dossiê.
 
