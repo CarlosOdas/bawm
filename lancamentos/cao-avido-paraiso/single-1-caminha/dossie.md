@@ -27,12 +27,14 @@
 | | |
 |---|---|
 | Quem escreveu a letra (nome completo) | Carlos Alberto Odas |
-| Quando (datas de início e fim) | |
+| Quando (datas de início e fim) | Início: 15/11/2026 · fim: |
 | Onde (cidade) | Brasília |
 
 **Rascunhos** — onde estão os arquivos, com data de modificação preservada. A cadeia de rascunhos é a prova mais forte que existe:
 
-*(Ainda não há. Cada versão entra em `rascunhos/`, com a data no nome do arquivo, no dia em que for escrita.)*
+| Versão | Arquivo | Data | O que é |
+|---|---|---|---|
+| v1 | [`rascunhos/v1-2026-11-15.md`](rascunhos/v1-2026-11-15.md) | 15/11/2026 | Primeira versão, seis sextilhas, escrita pelo Carlos depois da provocação. Transcrita como veio |
 
 **Origem da faixa — registrada no dia, 15/11/2026:**
 
@@ -49,7 +51,7 @@
 **Decisões** — o que mudou entre a primeira versão e a final, e por quê (2 ou 3 linhas):
 
 **Modo de assistência usado:**
-- ☐ Oficina (crítica, escansão, apontamento) — autoria 100% humana
+- ☒ Oficina (crítica, escansão, apontamento) — autoria 100% humana · 15/11/2026, sobre a v1, a pedido do Carlos ("Melhore o esquema de rimas"). Registro em [`oficina-v1.md`](oficina-v1.md). A oficina propôs o esquema, **reordenou versos do autor na estrofe 5 sem palavra nova** e ofereceu bancos de palavras para rima. **Não escreveu verso**
 - ☒ Provocação (imagens, campo semântico, perguntas) — autoria 100% humana · pedida pelo Carlos em 15/11/2026, antes de escrever; entregue no mesmo dia em [`provocacao.md`](provocacao.md), sem nenhum verso
 - ☐ **Coautoria assistida** — autoria **mista**. Não registre como obra puramente humana
 
@@ -57,7 +59,7 @@ Se houve coautoria, **quais linhas** e de quem partiram:
 
 **Fontes e referências** — verso que cita, adapta ou responde a domínio público:
 
-- **Carta de Pero Vaz de Caminha** a D. Manuel, 1º de maio de 1500. Domínio público. ⚠️ Texto integral ainda não lido nesta produção; nenhuma passagem citada até aqui.
+- **Carta de Pero Vaz de Caminha** a D. Manuel, 1º de maio de 1500. Domínio público. ⚠️ Texto integral ainda não lido nesta produção. Na v1, três versos respondem à carta e precisam ser conferidos nela: *"nesta terra que dá tudo"*, *"com a inocência de Adão"* e *"viu a dança ao som da gaita"*.
 - **Relação do Piloto Anônimo.** Domínio público. Usada só como contexto (os degredados).
 - Fontes secundárias consultadas pela direção em 15/11/2026, listadas no fim deste arquivo.
 
