@@ -90,24 +90,26 @@ Se houve coautoria, **quais linhas** e de quem partiram:
 
 > ⚠️ A cessão do Suno **não é retroativa**: é preciso estar assinante no instante da geração. Registre a data.
 
-**Bloco Styles — exato, como foi colado:**
+**Bloco Styles — proposto pelo arranjo em 15/11/2026** ([`suno-v1.md`](suno-v1.md)). ⚠️ Ainda não colado: `bawm-producao` confirma aqui o texto exato de cada geração.
+```
+Afro-Barroco brasileiro de sotaque nativo sobre base de samba de terreiro dos anos 60, barítono grave e solene de terreiro em fraseado lento, violão de sete cordas, pandeiro, gravação de sala crua e próxima em wide stereo, samba lento de mesa com voz e violão à frente
 ```
 
+**Exclude styles — proposto:**
 ```
-
-**Exclude styles — exato:**
-```
-
+autotune, electronic drums, 808, distorted guitar, synth lead
 ```
 
 | | |
 |---|---|
-| Weirdness | |
-| Style Influence | |
+| Weirdness | 30 (proposto) |
+| Style Influence | 80 (proposto) |
 | Audio Influence (se houve áudio anexado) | |
-| Vocal Gender | ☐ Male ☐ Female |
+| Vocal Gender | ☒ Male ☐ Female |
 
 **Mapa da faixa** (de `bawm-arranjador`) — quem toca em cada seção:
+
+Pacote v1 em [`suno-v1.md`](suno-v1.md), de 15/11/2026, sobre a letra v2. Intro (sete cordas) · versos 1, 2 e 3 (Bento; o pandeiro entra no 2) · refrão com coro · ponte sem pandeiro (estrofe 5) · refrão · verso final com a única entrada da cuíca · coda no sete cordas. Os dois ecos do coro entre parênteses repetem versos da letra; o arranjo não acrescentou palavra.
 
 **Gerações:**
 
